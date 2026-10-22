@@ -1,0 +1,73 @@
+name: Build Docs and Deploy 
+
+on:
+  workflow_dispatch:
+  push:
+    branches:  [main]
+    paths: 
+      - 'resources.yaml'
+      - docs/CONTRIBUTING.md
+      - .github/**
+      - scripts/**
+      - mkdocs.yml
+
+jobs:
+  build-files:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.8  # Change this to your Python version if needed
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Create README from YAML
+      run: python scripts/yaml_to_readme.py
+    - name: Create docs from YAML
+      run: python scripts/yaml_to_docs.py
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        if git diff-index --quiet HEAD; then
+          echo "No changes to commit"
+          exit 0
+        else
+          git commit -m "Update README and docs"
+          git push
+        fi
+
+
+  
+  
+  deploy:
+    needs: build-files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.8
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install -r requirements.txt
+      - run: mkdocs gh-deploy --force
