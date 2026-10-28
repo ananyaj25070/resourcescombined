@@ -1,0 +1,121 @@
+#include<iostream>
+using namespace std;
+
+//q1
+/*int main(){
+    float n1,n2;
+    cout<<"Enter n1";
+    cin>>n1;
+    cout<<"Enter n2";
+    cin>>n2;
+    cout<<n1+n2<<endl;
+    cout<<(n1+n2)/2<<endl;
+    float a;
+    n1=n1*n1;
+    n2=n2*n2;
+    a=n1+n2;
+    cout<<a;
+    return 0;
+
+}*/
+
+//q2
+/*int main(){
+    string name,address;
+    int age;
+    cout<<"Enter name\n";
+    cin>>name;
+    cout<<"Enter address\n";
+    cin>>address;
+    cout<<"Enter age\n";
+    cin>>age;
+    cout<<"My name is "<<name<<endl;
+    cout<<"My address is "<<address<<endl;
+    cout<<"My age is "<<age;
+    return 0;
+}*/
+
+//q3
+/*int main(){
+    cout<<"Enter 10 numbers"<<endl;
+    int l[10],max,n;
+    for(int n=0;n<10;n++){
+        cin>>l[n];
+    }
+    max=l[0];
+    for(int n=1;n<10;n++){
+        if(l[n]>max)
+            max=l[n];
+    }
+    min=l[0]
+    for(int n=1;n<10;n++){
+        if(l[n]<min)
+            min=l[n];
+    }
+    cout<<"Max is "<<max;
+    cout<<"Min is "<<min;
+    return 0;
+}*/
+
+//q4
+/*int main(){
+    float cel,far;
+    cout<<"Enter celsius:"<<endl;
+    cin>>cel;
+    far=(cel*(9.0/5.0))+32.0;
+    cout<<cel<<" degrees Celsius converts to "<<far<<" degrees Fahrenheit.";
+    return 0;
+}*/
+
+//q5
+/*int main(){
+    string a,n;
+    cout<<"Enter name\n";
+    cin>>a;
+    cout<<"Enter address\n";
+    cin>>n;
+    cout<<a<<endl<<n;
+    return 0;
+}*/
+
+//q7
+/*int main(){
+    float n,a;
+    cout<<"enter float"<<endl;
+    cin>>n;
+    a=3.14159*(n*n);
+    cout<<"The area of a circle of "<<n<<" units is "<<a;
+    return 0;
+}*/
+
+//q8
+/*int main(){
+    float cm,feet,inch;
+    cout<<"Enter centimeters"<<endl;
+    cin>>cm;
+    inch=cm/2.54;
+    feet=inch/12.0;
+    feet=int(feet);
+    inch-=feet*12;
+    cout<<cm<<" centimeters is "<<feet<<" feet and "<<inch<<" inches.";
+    return 0;
+}*/
+
+//q9
+/*int main(){
+    int sec,hours,min,mins,secs;
+    cin>>sec;
+    hours=sec/3600;
+    min=sec/60;
+    mins=min-(hours*60);
+    secs=sec-(min*60);
+    cout<<sec<<" seconds is equivalent to "<<hours<<" hours "<<mins<<" minutes and "<<secs<<" seconds";
+    return 0;
+}*/
+
+//q10
+/*int main(){
+    int n1,n2;
+    
+    return 0;
+}*/
