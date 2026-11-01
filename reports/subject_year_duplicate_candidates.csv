@@ -1,0 +1,887 @@
+Subject,Year,Filename,SHA256,File path,Duplicate status
+CG,2023,CMakeCCompiler.cmake,0df1b8b06640b3e0f1bb8bc98bf4cc61b7ac8639e37d7eba05b5fbc2428d5e56,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,16fdef447bcc1fa54ff7cfae32ca72c7dcb7a020274d1ddfb0d05131ff3e5391,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,16fdef447bcc1fa54ff7cfae32ca72c7dcb7a020274d1ddfb0d05131ff3e5391,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,0df1b8b06640b3e0f1bb8bc98bf4cc61b7ac8639e37d7eba05b5fbc2428d5e56,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,e226df1b454d69c8a4cdf53fc6c03ccdd621608d14eefe53d00aba36b1490d9c,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,16fdef447bcc1fa54ff7cfae32ca72c7dcb7a020274d1ddfb0d05131ff3e5391,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,16fdef447bcc1fa54ff7cfae32ca72c7dcb7a020274d1ddfb0d05131ff3e5391,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,16fdef447bcc1fa54ff7cfae32ca72c7dcb7a020274d1ddfb0d05131ff3e5391,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,0df1b8b06640b3e0f1bb8bc98bf4cc61b7ac8639e37d7eba05b5fbc2428d5e56,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,5fdfb3b7c560a63ed43d1a7808e733110d3bfef53ebc49a94fc3f77deb19ba46,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,e226df1b454d69c8a4cdf53fc6c03ccdd621608d14eefe53d00aba36b1490d9c,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompiler.cmake,16fdef447bcc1fa54ff7cfae32ca72c7dcb7a020274d1ddfb0d05131ff3e5391,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CMakeCCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,f88399a39d56b310a14aa58ca95c614022a5899dc39317b98006d9f8dc71cbee,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,44129d79f02455bf10394c6526438f07ea448b821b2e65af8845b7b463e4c3f6,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.c,f88399a39d56b310a14aa58ca95c614022a5899dc39317b98006d9f8dc71cbee,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,acd8a561fb2c7c5c57e4d9b3b7bf05bd6c1554c597b67a88ae3b28b721d35202,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,b2023fded8f397f6b4e48b669fb5f98a43aee0f4706c4fe6ce1998e393c083b2,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,b2023fded8f397f6b4e48b669fb5f98a43aee0f4706c4fe6ce1998e393c083b2,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,acd8a561fb2c7c5c57e4d9b3b7bf05bd6c1554c597b67a88ae3b28b721d35202,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,b2023fded8f397f6b4e48b669fb5f98a43aee0f4706c4fe6ce1998e393c083b2,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,b2023fded8f397f6b4e48b669fb5f98a43aee0f4706c4fe6ce1998e393c083b2,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,b2023fded8f397f6b4e48b669fb5f98a43aee0f4706c4fe6ce1998e393c083b2,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,acd8a561fb2c7c5c57e4d9b3b7bf05bd6c1554c597b67a88ae3b28b721d35202,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCCompilerId.o,b2023fded8f397f6b4e48b669fb5f98a43aee0f4706c4fe6ce1998e393c083b2,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CompilerIdC/CMakeCCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,cd892454c349ca3f54e835b809b52dd7515995a8f45b5ebc91c3f8c2b9cfbf6f,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,08ce1749f1c9e79da08044f05f359f3ac7521fa01f038a1d4da0c26b9c85ec0f,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,08ce1749f1c9e79da08044f05f359f3ac7521fa01f038a1d4da0c26b9c85ec0f,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,cd892454c349ca3f54e835b809b52dd7515995a8f45b5ebc91c3f8c2b9cfbf6f,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,2b45b213952e8ff33366da3750a3a8ccdc914d32dde4b4cbb2051e959ab192ee,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,08ce1749f1c9e79da08044f05f359f3ac7521fa01f038a1d4da0c26b9c85ec0f,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,08ce1749f1c9e79da08044f05f359f3ac7521fa01f038a1d4da0c26b9c85ec0f,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,08ce1749f1c9e79da08044f05f359f3ac7521fa01f038a1d4da0c26b9c85ec0f,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,cd892454c349ca3f54e835b809b52dd7515995a8f45b5ebc91c3f8c2b9cfbf6f,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,7a9b076c5deba6c53ef330aac2a2d3841756211e8f220041ef62bf3b95f82660,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,2b45b213952e8ff33366da3750a3a8ccdc914d32dde4b4cbb2051e959ab192ee,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompiler.cmake,08ce1749f1c9e79da08044f05f359f3ac7521fa01f038a1d4da0c26b9c85ec0f,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CMakeCXXCompiler.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,bd1f2250416e16ed26d6db1890f822a01d487df29d20e87407ef4ce72c314ba0,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,6f94da5ac139bb54c7fa3635112c4e4b3a16ede555b3fbcc0cf275abc9639c98,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.cpp,bd1f2250416e16ed26d6db1890f822a01d487df29d20e87407ef4ce72c314ba0,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,818d4ddd31f5acebd5893cf3f6871dcde7b4daca14d75c907e810b384f2e696c,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,f8dc805e76c7691c8924934950a5bc56a77069426b3cd3d18b7ddd8aafb1108a,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,f8dc805e76c7691c8924934950a5bc56a77069426b3cd3d18b7ddd8aafb1108a,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,818d4ddd31f5acebd5893cf3f6871dcde7b4daca14d75c907e810b384f2e696c,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,f8dc805e76c7691c8924934950a5bc56a77069426b3cd3d18b7ddd8aafb1108a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,f8dc805e76c7691c8924934950a5bc56a77069426b3cd3d18b7ddd8aafb1108a,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,f8dc805e76c7691c8924934950a5bc56a77069426b3cd3d18b7ddd8aafb1108a,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,818d4ddd31f5acebd5893cf3f6871dcde7b4daca14d75c907e810b384f2e696c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCXXCompilerId.o,f8dc805e76c7691c8924934950a5bc56a77069426b3cd3d18b7ddd8aafb1108a,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CompilerIdCXX/CMakeCXXCompilerId.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCache.txt,015c5290d181a4fbbf90742cfd9f90c8cb4170eb3526aa6237f7ab96c2bf0151,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeCache.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCache.txt,4b0d4f03b7a550436c16f92445c994d047adb93d13173b80374573b5320a199e,CG/CG 2023/Labs/lab02/code/CMakeCache.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCache.txt,87bfe08ba45b86f44843e246c4aea9cd53056f082fafe675d08a702e550368b1,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeCache.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCache.txt,fcbfab42bec3e6e162e6fba5a467cba1e06e688b6a25ac3edc0bdce8ec365c3e,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeCache.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCache.txt,505d624caced08a42e71f6616e4ebe479262a284a361a479f1189d470952622e,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeCache.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCache.txt,f79435d3cb729f1c925da2e0873b85a547053e28b65cc3a8aa6251f7dd6e7cc0,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeCache.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCache.txt,5ff8593db6252143fb7bfcba833fa8541577a567f78015137424a2187ed2008f,CG/CG 2023/Labs/lab0/code/CMakeCache.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeCache.txt,80f77c9fa05ade2e313d72a41e5c3d362830fde093743ebc209cf86a5c80a1cb,CG/CG 2023/Labs/lab0/code/build/CMakeCache.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeConfigureLog.yaml,b001b9dd5ecb432c368a41ad530c0f6de18d5755af2f6564418150869a7376d7,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/CMakeConfigureLog.yaml,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeConfigureLog.yaml,b5d2b4f82eb61dd7d01645b35f3d7562bec77ba00aa3322903be7a2162c9bbf0,CG/CG 2023/Labs/lab02/code/CMakeFiles/CMakeConfigureLog.yaml,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeConfigureLog.yaml,fbb78c5adec3835d26a588806de15b238d2c8bb98ba70065bd9e122b52fdb5db,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/CMakeConfigureLog.yaml,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeConfigureLog.yaml,cc397e5851a1769abb4603b3448efe069711f6af47efefda960286e99782399b,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/CMakeConfigureLog.yaml,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeConfigureLog.yaml,d432bed7af61253e0db4ff55e52db0145b48d2317d4be68726334b41371f0a29,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/CMakeConfigureLog.yaml,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeConfigureLog.yaml,e88f2f50a1d7439b79763d7824bce4ddbac13087c33016e87676dcb36ad261e4,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/CMakeConfigureLog.yaml,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeConfigureLog.yaml,bf186ea407bfcb55cc2ce3ce6c1678ec7220a28cacbedeec76944559e94abb01,CG/CG 2023/Labs/lab0/code/CMakeFiles/CMakeConfigureLog.yaml,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeConfigureLog.yaml,6ce3d5afdb10ef817b773960c19703ef51f97ff350998b98ec8cd74aade15188,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/CMakeConfigureLog.yaml,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,cc007b7d71c2dd49a7d982b08b1e30e587f413d79cd6180775769a859f5bcdd0,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,968aa6e90083feedc3f57e8d55d5009c8031cd20ecd423bd0debad48074d9896,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,2b547934a4f7936bd63e9e2a821c745a052a613099f1681a8d2f31c4291a64a0,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,691dcfdc927d5a948dfb99e936d23ce0980fe2ec63a77458f6bf53d7033a4be1,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,2f1901373878efd64fb8d123f266ec93db00a3523087d52afa0fff59401a75ce,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,df92c6ebb512e8eb2a6374c62e0a4145874ac73d44ae2b4d4c4697b762c44dba,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,c65f334ea0704a0ceb43bd7e1e4abe83e18128dca78394150be07f3617155bcb,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,f0992a96879042f4d4586eb836798193ca9aa43d7060307657c2f06f5e7c6882,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,7ca886150a26193e23154f7ccfa4c8ed9b6f77145629a3c41d11398d2cd4f20c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,4b5cccf5aec7f5d12bab4609780b6e2b77ae83db1433e2407e5b3d9d87c9a6d8,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,2f1901373878efd64fb8d123f266ec93db00a3523087d52afa0fff59401a75ce,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_C.bin,f06c5d2c61d818af6da80764c8f3c2049e1b81642df39a9b307da71cd0d19a44,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_C.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,5a1f4e0b654a632c2a7803cf32305b195e7773056ea25b326ef9e2a302162729,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,a02ab99b0c5594737ed261479fa0ccfbc9475c99994443863e0722d55495eb14,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,bb3a5f7d956bdd3fbf22369e2438b98daf395009a4454e1aa7cb7949d5fd6a3d,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,f79623e9734a264ab7c3a67ec7fe8bbdb7cf4f9f42413bb2711993815c248da2,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,706369b9a080132db3bd9f26616f30a752f9376201eb47cfb747ef4b34d7120e,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,8806f24b52a1e224381437a2cac88e52aa48bf4d9b050fe050d650e3d56973d8,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,996da5e17a48fcdbdb8d37b6474d803cd2f9724192b0293a712c39513b9cb0fc,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,520584927f4e28c2659ac22a49a9d11ee282f801fcc7514926b34063cad04fd2,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,1e4691cbc773562e59f5a458234a3cfebcbd1491b27ff7c45324e0319bb1bce2,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,de08e9efc32d626d2da7c892ea225b2247d212e16ca749aef4fa9be7886d99c3,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,706369b9a080132db3bd9f26616f30a752f9376201eb47cfb747ef4b34d7120e,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDetermineCompilerABI_CXX.bin,acc52db667ebd54cb21a12cb9acc3fa629a5f3d675d7054f953ae29446d89bd1,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CMakeDetermineCompilerABI_CXX.bin,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDirectoryInformation.cmake,4657ba8464eef09e2359ef8b44e835822e26bfe253c660d83f81dba04dbb2e9f,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/CMakeDirectoryInformation.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDirectoryInformation.cmake,be7cc5b1b09eac466e775e84c917daf3c208eef96e9aab225b22bad80996c333,CG/CG 2023/Labs/lab02/code/CMakeFiles/CMakeDirectoryInformation.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDirectoryInformation.cmake,b81b9bbf21ce29921af906e6e711d84ccbc0e064bc27e7663077252e1da55684,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/CMakeDirectoryInformation.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDirectoryInformation.cmake,257c4c217f1f88709c23dce40fab1461ef91a306ddc73f67fdcd471920a6aa9c,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/CMakeDirectoryInformation.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDirectoryInformation.cmake,443cb97d8cbb6d3843880dc9b03b011c1bd9d8cc3041fd20da5a7df201526a2a,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/CMakeDirectoryInformation.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDirectoryInformation.cmake,c514fcfe4a1a22ba5df3334b67ea24c04442b90883b9efc79064fc4bdc47d70a,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/CMakeDirectoryInformation.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeDirectoryInformation.cmake,03f07db95a0b787dcd46049f94518400cc196a970eeca5a9e396b0c57c9f5830,CG/CG 2023/Labs/lab0/code/CMakeFiles/CMakeDirectoryInformation.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,8d3a26c7f122694b31d84d4cb98e228ba631110bedec4896dae01586a11a5dc8,CG/CG 2023/Labs/lab06 - Texture Mapping/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,7ab35c1722b861661d1005e9a3de29f0cb5698148e79001d6bf34bcced1acf02,CG/CG 2023/Labs/lab02/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,887460e603358dd63d4ff6da6f93976494a6f812818e1970bacd318a0b637620,CG/CG 2023/Labs/lab07 - Normal Mapping/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,57506e292ab420f75b33e7bcecf21105ce48148432f2c86eddec2269df95c262,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,01ba1fea476d88aa8403d979adea9595a57873d4637704946bf8c8eafd045188,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,e8956fa8b9bc820a49363edeec68e0227bc2433036919cd0879cf973aeff5e05,CG/CG 2023/Labs/lab08 - Environment Mapping/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,55698da15cda5bd3e7bb4cf0eb0f16988b59daf408552b4c015c2e509f6ab0f6,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,e9c1adb93467ab0d33f0679c5e8c8f3a9e50d273251d5969912d64f19bd4940c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,e733fad659b410b2b9efb347b327ad629bc0d3ca24b94f25c9a205e87dead0b2,CG/CG 2023/Labs/lab0/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeOutput.log,187c313c8a7797d15f6b7e643a16337399368aa350ce34150c8c53c2c6d2fbf7,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/CMakeOutput.log,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeOutput.log,809bef8c1c4c2906ff3faa0da8ede3e4c9dff07cf457bbc05911352e33822518,CG/CG 2023/Labs/lab0/code/CMakeFiles/CMakeOutput.log,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,c5c0fdecdad12873beb1ea5b0b704807f60ff34cf25c577b3c9c0f6abbfd42a1,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/3.27.7/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,be28c12a49934a234667d10269697c080c7ae86231d840bc76188bbf42d75f2d,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.7/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,be28c12a49934a234667d10269697c080c7ae86231d840bc76188bbf42d75f2d,CG/CG 2023/Labs/lab02/code/CMakeFiles/3.27.1/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,c5c0fdecdad12873beb1ea5b0b704807f60ff34cf25c577b3c9c0f6abbfd42a1,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/3.27.7/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,1201b8ff4a730ebb9ae8a66e24e0c6021db937df07acb75a49fd8da6d1f70e42,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,be28c12a49934a234667d10269697c080c7ae86231d840bc76188bbf42d75f2d,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.27.1/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,be28c12a49934a234667d10269697c080c7ae86231d840bc76188bbf42d75f2d,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.7/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,be28c12a49934a234667d10269697c080c7ae86231d840bc76188bbf42d75f2d,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/3.27.1/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,c5c0fdecdad12873beb1ea5b0b704807f60ff34cf25c577b3c9c0f6abbfd42a1,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/3.27.7/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,be28c12a49934a234667d10269697c080c7ae86231d840bc76188bbf42d75f2d,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,769c154c4043ef8c9dbf09b10b875d8e59fab8acb83ab3e3acec25b152033869,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeSystem.cmake,be28c12a49934a234667d10269697c080c7ae86231d840bc76188bbf42d75f2d,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.27.1/CMakeSystem.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,346075ebe28b65a428239fce29b530cb0bd46e33ee246be691ff07bd850f1282,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,9654d13e6614bf42669c4ebbec31fbb74ae1c5088faca55cab7f5f7130529c7f,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,9c66b1db1fabf66db98d4c90d2c2e8d829b2eb36af64b4342242a501c8ed19e5,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,310878b24b08de7259fc309dabfc76dc6090865b631fc3dfed2f945dc366ee0b,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,5e79c208aff4084625c02bc5b0ef8e1b962e16eeca4a55161d955a37a660309c,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,fbae93051286fafd9ca89fc17c8b8e841218c9345825cc7a6272084de0327666,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,8fc6d4e10c582d95b681d818f32f5bf0addc0edd937072331cf41982a0d34cd0,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,f027bb17b8212c5be1eb2e7c608d9799d326652d05658e75e6fdbef8c8b6f247,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,DependInfo.cmake,5ddf8e50b7322c2a88306918c9b4aa86145308713b3b2be28d4df7f862c648a0,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/DependInfo.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,0fe2c4f96b8d2deae81533486e3002ada2e91ffc69934eda58623b5529fc5ce5,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,821e6de00263325cc0d5cff689c4225f5a3da135fb5015087b68d522153f1738,CG/CG 2023/Labs/lab02/code/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,c9b4af11ba02a4cdb2cf8d36c51c1051cdcbefdfe54841fa7f2f640fa291d034,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,a5cfae2b1696a6f3ba2594e1bbfc43ab23ea6eba8de7453eb784428194401c5a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,4252eed92a8b801297c4feb76724017afbedecd344cce55f0c91eecc406b4be6,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,517522d5bb2c6a490a85aa21c8d0e3241b9f7e7ea8a06d8350929693f8a11347,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,c114423878d66fe73d1f780140b54f2f2aba26933646827f43fc11a179f871cf,CG/CG 2023/Labs/lab0/code/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile.cmake,9b08272e3b0f61ab998a5e43001be5a1892a821d26a0fe3992cbe58900088c15,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/Makefile.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile.cmake,3c055990cff7125c51bc11159369a63b638553d7d16db278be5df3731dec38d5,CG/CG 2023/Labs/lab02/code/CMakeFiles/Makefile.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile.cmake,39dbe1c477812631689ca2056ed283d976fc797ca8e27caec0ace9530b3031d0,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/Makefile.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile.cmake,455b9b48a48333765662463ade9be4ab56e485e5c2dc0ecfb281a46b7e9ef6cb,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Makefile.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile.cmake,073cd596adaa0d2cbfbcd8cec2655dffcf190bb70de0f760494a2a98dbf69927,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/Makefile.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile.cmake,2b8dff78388e802f7b2a11b51de653bb9fea1d1e886bd5174ad99592b95a86f8,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Makefile.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile.cmake,106caad81c20a70592d2a8a8f7d27617fab70e6c132deccb369cc15b9ba40a55,CG/CG 2023/Labs/lab0/code/CMakeFiles/Makefile.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile2,25b0d4a8b7948a91cf26ab22e9e439698154d612169b60e91cb99d6eb01a21ad,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/Makefile2,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile2,a8d04230bad4b6dd96bc7adfef8b8fbe2f4bf89c0a753970e5c4b69e4a6a95dc,CG/CG 2023/Labs/lab02/code/CMakeFiles/Makefile2,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile2,317bf17dfb5244b51d52f0280b533ff290d156f93825bf67f1ffbcda4476851a,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/Makefile2,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile2,f9f17e28f7dad6e880c3eb1e5729bd192804154cd7c3c1d58ef3b7b07112c79a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Makefile2,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile2,63a6f6958cf3adddf30bdbfe8e8ff488547384d6ce48481d3387d54a55119d49,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/Makefile2,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile2,edefa8cc65f43a835c976be4d59edc88b62b5458a335689c9fcbc57401815a91,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Makefile2,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile2,aa48fea4604671473fb1644ca193c947a4217f0064cbc3ad104fc694f09c9118,CG/CG 2023/Labs/lab0/code/CMakeFiles/Makefile2,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,6ad808a893dbc96363f6767d7f0a9208e1fcba9c036e6c3b195934ed35dd6342,CG/CG 2023/Labs/lab08 - Environment Mapping/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,263d421667b5aba69fd2cef2eb6afd76705964eccea7ea59725f32343da0232d,CG/CG 2023/Labs/lab05 - Implementing Shaders/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,41ede5d39a785bb8a0d175d5aaa1b75eeff5ac222cee48d9af60420b75dfa736,CG/CG 2023/Labs/lab07 - Normal Mapping/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,c2efaf0912c1acebaf5863743d8ed1d2da3b753b15e29fb74e4f9425a7ca9b94,CG/CG 2023/Labs/lab06 - Texture Mapping/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,2f9823c3e1500f6a74ed9bc0fd8752d2d7da4d64b60ce88c8cfedfad029db77f,CG/CG 2023/Assignments/Assignment02/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,bdf7b12fa44a31f6e9f3ff5428852eb754a31985cb4450b5a3903e172f5a1f33,CG/CG 2023/Assignments/Assignment03/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,5c410c1dc765813032ed73c111c457ad6717531152e3f29903025380944598ee,CG/CG 2023/Assignments/Assignment04/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,524d834bd72a6b58b57d0c0956547a7d37d776211f308a06c7617510f075409b,CG/CG 2023/Assignments/Assignment01/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,TargetDirectories.txt,ce290ac5d74dd1edfa1c7e4f932440931779f419556bd1f9a0e2f5d5a2732865,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/TargetDirectories.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,TargetDirectories.txt,6f0f05c5e488f35d716180dac04d8069a91d35fcb6123636dacecdbad0f49bd7,CG/CG 2023/Labs/lab02/code/CMakeFiles/TargetDirectories.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,TargetDirectories.txt,b494a800462343c6f7afa5c5c622e9e3fa78c914cbefd94025491adcf43fcfc1,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/TargetDirectories.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,TargetDirectories.txt,df5865b171f13487dbb5ea8f9c52c02150c48cbc6ab091e7c767ca1b594f40e5,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/TargetDirectories.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,TargetDirectories.txt,1c06449a625c06dcba900873311cf1cf50efb2bd7036b329a746df9757caa531,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/TargetDirectories.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,TargetDirectories.txt,45161b733eba410d9371ce964546eeb2714c688179f5df87b9395284f6fc14bb,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/TargetDirectories.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,TargetDirectories.txt,e7d70d02e4a21ccaa13e9960c44406743b2ae2d09a05c9120c00b02272e1802c,CG/CG 2023/Labs/lab0/code/CMakeFiles/TargetDirectories.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,TargetDirectories.txt,ef5cf32a78db8b13dd27858f85c34449d725c2351ebd64b58901689fcc68fc4d,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/TargetDirectories.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,a.out,d10ff3b66f5e59ee7c45ef6c21d35fda121d8d24665776204465d0479d4a4bf5,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CompilerIdC/a.out,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,a.out,04570120db8a3f440565edeaf39f238fc603fb5100a2c8535f764b677bad4bc7,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/3.22.1/CompilerIdCXX/a.out,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,a.out,207a6031d9996df25fe78a37bf2ebd3a9dad445e8ead94d896ffc5474fb3ae86,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CompilerIdC/a.out,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,a.out,67821e80ed1f35150952b01d03fa4e66005d570af89c4e495fc63c08cd6ab027,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/3.27.1/CompilerIdCXX/a.out,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,a.out,d10ff3b66f5e59ee7c45ef6c21d35fda121d8d24665776204465d0479d4a4bf5,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CompilerIdC/a.out,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,a.out,04570120db8a3f440565edeaf39f238fc603fb5100a2c8535f764b677bad4bc7,CG/CG 2023/Labs/lab0/code/CMakeFiles/3.22.1/CompilerIdCXX/a.out,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,53ef14c16a14429ccdb3869cf6635dcc5200963bc7a476daaa97fe9de433f45b,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,109ba6f97fcde0e97dd63bc08af2ee743f5caa4b6b58bc2342b902757fd7eddf,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,5bc915d5e3135418f94b58af2e7fad507b70920265f38e61c2e658809c184f15,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,9c17fcb9ea345acf9bbd6a6f72faf6edbb9c599d3698722ba040c5e745fb6b7d,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,9ca5b29c7c20ec510455041a7f43d6733cc62b096f704b62f42b4faf38d48abf,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,36b99158aaf07bb76457f910ef5be03bb3e17266974ecc726edce8bac2bb76b2,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,d136bf73d6079fcdb8979bf3a9478d61f3af5441c7ed92a4ab011ae702490c51,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,9c3daf4842689bd33a5fbd0be68e2ccd3572e479e1f91b1c34ba96c91c4e28a6,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.make,707602f4ea8c2325c668da0fd26e145f099c0d91ff73782fd786592b646a4a29,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/build.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build.sh,EXACT_DUPLICATE
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab02/code/build.sh,EXACT_DUPLICATE
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build.sh,EXACT_DUPLICATE
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build.sh,EXACT_DUPLICATE
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build.sh,EXACT_DUPLICATE
+CG,2023,bunny.obj,bb49ba46b4fab4b5f8f43b948698d6f5390806dc3f21708fecf78fff91e6e68c,CG/CG 2023/Labs/lab07 - Normal Mapping/code/src/bunny.obj,EXACT_DUPLICATE
+CG,2023,bunny.obj,bb49ba46b4fab4b5f8f43b948698d6f5390806dc3f21708fecf78fff91e6e68c,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/src/bunny.obj,EXACT_DUPLICATE
+CG,2023,cmake.check_cache,a26189e394421da57f45706a07713c5720acd200a41711b0c0c590c3c63371c4,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/cmake.check_cache,EXACT_DUPLICATE
+CG,2023,cmake.check_cache,a26189e394421da57f45706a07713c5720acd200a41711b0c0c590c3c63371c4,CG/CG 2023/Labs/lab02/code/CMakeFiles/cmake.check_cache,EXACT_DUPLICATE
+CG,2023,cmake.check_cache,a26189e394421da57f45706a07713c5720acd200a41711b0c0c590c3c63371c4,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/cmake.check_cache,EXACT_DUPLICATE
+CG,2023,cmake.check_cache,a26189e394421da57f45706a07713c5720acd200a41711b0c0c590c3c63371c4,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/cmake.check_cache,EXACT_DUPLICATE
+CG,2023,cmake.check_cache,a26189e394421da57f45706a07713c5720acd200a41711b0c0c590c3c63371c4,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/cmake.check_cache,EXACT_DUPLICATE
+CG,2023,cmake.check_cache,a26189e394421da57f45706a07713c5720acd200a41711b0c0c590c3c63371c4,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/cmake.check_cache,EXACT_DUPLICATE
+CG,2023,cmake.check_cache,a26189e394421da57f45706a07713c5720acd200a41711b0c0c590c3c63371c4,CG/CG 2023/Labs/lab0/code/CMakeFiles/cmake.check_cache,EXACT_DUPLICATE
+CG,2023,cmake.check_cache,a26189e394421da57f45706a07713c5720acd200a41711b0c0c590c3c63371c4,CG/CG 2023/Labs/lab0/code/build/CMakeFiles/cmake.check_cache,EXACT_DUPLICATE
+CG,2023,cmake_clean.cmake,b881f1722c7c3fcad960cd3bb755f332af8f16d27f59b765ede862f3988db9cc,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_clean.cmake,5ea7ac3e1b25e7e15eca4beaa5a06b2a2477c46c0981ca279e5e580ff676423b,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_clean.cmake,d020acd149844202b8bee3d7a94da22c30be68fe4d5a12330d76e4d172b9ef05,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_clean.cmake,1f48b64834babaddba29d8beba046a4278281981109e721ab4920d44d336d318,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_clean.cmake,3eee09a98a94d5c4d6993fea76f20cb9e1cc1a366bbf87e4d6e11ff35579a322,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_clean.cmake,de09cec7e3406e15538bcae941b007ecd45cef03406282625a75ca13188fda81,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_clean.cmake,f1074ed86e71a210292ea93b742e419ddfb86848ebe448d36b5f4f3ded7a88a4,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_clean.cmake,387b17f0f1298a11f7fb5ed914b7089d82749cd7e4ebd1db2cae08a8171c7dee,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_clean.cmake,3cd250f17f992518dab8282a3e3f1c63a33728a1e2568f932298524d93d5e8df,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/cmake_clean.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_install.cmake,0a83d04e8c892a8fa381594b6fe1fe49d10f392c0ae26c194b70dbf80ab174ed,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/cmake_install.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_install.cmake,cf2f05cc9605342c6412ae0b7e6e11e7f507f505943186eaee5aed741578377e,CG/CG 2023/Labs/lab02/code/cmake_install.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_install.cmake,b8679e21d2e4158cf117dfebaeed30e66a732bfc6274c926b47549e9b8a3400f,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/cmake_install.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_install.cmake,72829a136ec7775f511830b4a87ae28fa08a351ec0cd7d98c379e1f3a1a724ae,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/cmake_install.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_install.cmake,079507e47084138ebefedf7c416e00fad8a1345de8e5bff70c484ce86b1b99ac,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/cmake_install.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_install.cmake,4c590b56832212921a5b88993e10d292910f02d9c84aee85672e1ac20daaaf98,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/cmake_install.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_install.cmake,1c3296710dcc75aff71f101e0f17ecbd85d3f8a1164964bb2faf13decb3efe77,CG/CG 2023/Labs/lab0/code/cmake_install.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,cmake_install.cmake,2b834cfdfd1d0127364acb4287b0e9be22ea02e5c22ff57655723d88bb361be2,CG/CG 2023/Labs/lab0/code/build/cmake_install.cmake,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,color_space.hpp,c6f321b9d904e7824d69f559dfb8f369d5d510329299c45f72ae4b6ef2fac9ef,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/color_space.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,color_space.hpp,4ffbf3e00a39226fa25e9eb55cb56ca36539a1e620962441c2eea4a1f21debfd,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/color_space.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,color_space.inl,85a27af8807abc69234917e6eb067bbd94bb1d2a562d5137600fd0426e373e47,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/color_space.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,color_space.inl,26bfa1782cbc574434f5bb58a8ab2e23b04a68d20e0958b9e34226b7973040e0,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/color_space.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,common.hpp,f3512ae64c0991372daad9cff5a761a97b8d3a1a82fa3132aa3f501661e51fd1,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/common.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,common.hpp,082bfbebe7ee8971b1f9652c3a5553aa42bb5fc2cf1b9acfe2a2a0d070c332e5,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/common.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.internal,c5855af59be649bd553bef1065a5473e753763f725839a8418d206f07c9d0601,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/compiler_depend.internal,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.internal,38538afbfccbb561abdb943acad22f688f647c248facd6a0617190b4fec30815,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/compiler_depend.internal,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.internal,ff1c02c6749742724872a5b4f18b83753e728ed6eb7cee41ee97069cd1e8a17b,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/compiler_depend.internal,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.internal,525c4cde042a09bdc365f338d17eadb66c6fd05fc3676bfa90e04e8a421ee1e7,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/compiler_depend.internal,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.internal,eced1da3e047ceb331bed1aface30e3a54de6aced9467b8b3338bf585d34de5e,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/compiler_depend.internal,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.internal,d13ec36a9a6e021ba98ebeeab6ee4d1de3b7d34645de0982d2e3ffe59ea7c3a0,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/compiler_depend.internal,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.internal,695155d179079a93fd8fe86c191ccbb267e734561f6dc1f9fbbd467f926d2ce9,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/compiler_depend.internal,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,4e4d683053d651d315867e4b1b8882befed08011380820b50b6a150f06c96071,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,6235ac19f03661233e09ff26b44e5535bdf200bb90c9a88443f2aada3e35080e,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,5f196d55da8225ee2f8ecdbb902a6a23cb3b5e397971baa215e790d43bf43d42,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,766d92525d3419ae467d7db64483b0065650c189e072ad7eaa60bed85104bba2,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,b35f0f9ff6c026240b9214a73997c4fb3e80492d1d291436b2aaa1eb2dd11e54,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,c4719c7b8560d16ca59b382e9c36cbe82ec5bf80084b837f849e70bba60bc59d,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,e1ef7f51e3df023b41f83a326043e1fcd73c49922cae84e3e1711ca514f22125,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,6f4c2b4594a19941631ed0c25650d331c45b0d3f4e480598f7a7a772e7242ab5,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.make,1b35ab1b8705334b084b3ec95c284770a3aae74af77843b6301524801cd7d430,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/compiler_depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,3c454c2c8352e7d8c13085636707e2fa5a99f39ff6ca8ce51733bcf696a3d38f,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,58c7a3988056b3074eaa54cebe24b4962ff66cbda46e32d27c6b48c7a49c09a7,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,202046c2cfb8ffdf6ab88fea4677eb64bfc55c04900e63e71f4fb69eab758d44,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,c4a003524381f2d5ffefea2e31e9b895b6945d2a15abe2ed84e4f2639fd9c708,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,bbd522805b67d56fb0a705e90078e7af4b3fa936ab12c7da677874500148b504,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,c9e39549335754f6e3d39cb8f6b45c9af1899cf85b11840882b565b9481e3bb5,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,96686a05e3ffb91fd2aba7c341fc186b390aa5817c39b905df3b530f2d967155,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,0c92980bc0752df32cf1122b4a4362807cae1370fe1b5f2a9147f7252aa37a26,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,compiler_depend.ts,1db4ace17359166eb0b2fe138e7639839ff4fefd9e0f1dbcd9147e150036e013,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/compiler_depend.ts,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,a4ddedc4c37785c1e7f8408dfc4ac04fdfad1da9ef4e68be85fe2416cedfe3ee,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,4bb555595f866354938b8f34ec37527fd432994c77ca0ae3c6a22266529a57bd,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,6166e3eef09302f23b89a1fcaf73d98e08d5e334a80242888235f1e9757f2174,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,b271a56ed9a89c0ea071e9ac8c82f05316ac7dfada758a8a25521599bdbc4816,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,1bc4086269927c868064e68869ce65bdf20aefaaa1da3e87f0817e11ca012abc,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,7199633315a1b706bfc42e4dc6ed6257df6b3ccd95f2733316427cdf6550eabe,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,4dbf4021b607ef82bb27b22eb3709d7c180b54a02a78d3aeabcb9707ceab4349,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,51d23882f0e7393b8eb2ef5513481cc00f96c9277842e5d6b7260c376d2a9897,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,depend.make,77028421bbd17f7920b92fc6969ea00a51c49c6052da859f7625220c8e1cf5ca,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depend.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,c515eff418916b0c53ffdd3c6826663fe943c79e68fecda207e3fb3ed930a9c3,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,aee2dea4faa0d896daec709758a2097f4f5c7dd9c74032376cca8ec0117166df,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,54d3ccdd2d2505ee7b391d745bacce416cdc906142c84340574fb5cba831af8a,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,ae0858cfaf3c6c0dc3c67c1567b7ced22336b10d53f7ad8c69f4c1153baf9075,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,4ed86e57c8080ce66e77c00f390740ba3a265d53c1c7520c981129b3c45ce83f,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,10eadefa0081224be5710cdb2a4fb42b478d7bd72851eb05fe85583ec0134124,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,ed0f73a36fe42c342217c62b25c5c59027810d17f57e7193e88f92bab3356423,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,8a717fcd8b46c2f57a6cb8a584a04eb9fe4f42dec2e9710986bc3e162a7c911a,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,flags.make,77030610e5dc4f261cc39413003ab7a7b03e797777d38e9d3e9b2023825e2666,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/flags.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,fshader.fs,e8e5790542dd3c5c8a48970170213a01ed370674f0addd7c10330d570707b20d,CG/CG 2023/Labs/lab02/code/shaders/fshader.fs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,fshader.fs,4e2e8848662483541144847f36f541c459d906059b1c6ae2d81f7448a22bec47,CG/CG 2023/Labs/lab07 - Normal Mapping/code/shaders/fshader.fs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,fshader.fs,6b3a393ac782361bfda2afa4d73cc565dce308b95c47b6ffebe5af828ba6b9ba,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/shaders/fshader.fs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,fshader.fs,db905536872dacb47ce91ac25b189501c8ce099f77e3dbaed921f3d4662ef5f0,CG/CG 2023/Labs/lab0/code/shaders/fshader.fs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,glfw3.lib,2e00d21cfb87d1a390d8e31237b1cc7dd6aeb00ff7eaade82640412496259b9c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glfw/lib-vc2010-32/glfw3.lib,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,glfw3.lib,aa4f5523a503e1c2aee397f9c252cb78d1c5c85be39e325d5723bd8969152e7b,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glfw/lib-vc2010-64/glfw3.lib,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab02/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab0/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp.o,f7df90d8fb37a62532297bbe5e62f1c3489cc825ba367091cfaa7991f7849913,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o,d81c9cc6d605389df7c6b42b23b097ab557a88ae390b25ff3e3d61969ad24e9a,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o,ee46dfe702904becf27251b91d96df2bdb19f72fbad79b66eab29746de4f29bc,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o,fb53863abdff4536ce26ff708f1e52bd41bc7f81f427fa76b2d6ec0cd22cbddc,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o,89fb04ab1b6e649d7ffebcb788e85261661b8903dba099f56317e7747c0d3356,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o,b97ce6b973a3a559b9531ae24f0536ddebcb67962058727ac84e310607632eb0,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o,f7df90d8fb37a62532297bbe5e62f1c3489cc825ba367091cfaa7991f7849913,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o,3a20066dd71dd4a014636f9ce87d177d84ec6cfec6c0d5470a2de864179b5401,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o,73d4f1dd1bcd39935ab48f132ab64c73b8a21fe741c37f28c03647608db53cb5,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,3eb62a13f5c7d0dcd9c9b1b905d578813fbb63d08e966af36292a989aedc0238,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,285348a359cbeb9717ed7e33494e7a02f264fd19847c33b9b5a237dc3be9a20d,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,5b8cc3b2d20c4e70a40c8cd78fa420a045dae030ed19ea1e29df341a70c53ebe,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,b20681683f12fdb8fb43716617eed55f5fe6e4f89a04128d374018fd2bd162ab,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,c7c5186d0691e7522b3c8db3d2cc36cddc433ac472de496eb7bd9b72487e79df,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,2203d973f06f351765542375b170a99e0f4089515633a7c3191cbb1eb11cc646,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,abb67ab78fae7bc31557324ee646ccd7360cb4c97777ab02035bdabf5cdddc42,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,090e60ed202c4c2253494517552ea5f2620d6a06e9fe3b9ba741f200ab1e1adb,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.cpp.o.d,ba1357b5acd0f2ac79d41fdd35c2ad91b040a71d912a6776c11c6722f50c1ef5,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.ini,07f42c9fac95a5774dc0487293ad4a7d2cc898027650474e15622f1ae3e046cc,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,eaa21557fb28af2c45bcc8abce7e49ae179c35933d0e712439613b1e9eb7bb2f,CG/CG 2023/Labs/lab02/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,07f42c9fac95a5774dc0487293ad4a7d2cc898027650474e15622f1ae3e046cc,CG/CG 2023/Labs/lab07 - Normal Mapping/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,99430006ac3a5d88ccebc1a5f42c99cc94638d9f75b4969715837761e6d9b4e5,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,07f42c9fac95a5774dc0487293ad4a7d2cc898027650474e15622f1ae3e046cc,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,07f42c9fac95a5774dc0487293ad4a7d2cc898027650474e15622f1ae3e046cc,CG/CG 2023/Labs/lab08 - Environment Mapping/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,a9d4776f8a185d4f7f0408cb9eb5fe5a6da9364208161751ea6a8a7a2086f564,CG/CG 2023/Labs/lab0/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp.o,bac5ba4fc55c8587fbee345af146f30a4f2d84a8835555ea7fa25cb30b034396,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o,9a47dc7b0f4b64517be1413dabaa05d58bee3c556605251b9cf9cfa5fed35f3b,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o,a25a25d84c466f47e791c342843a412bf9a95dc6f7cd0b090ea9be3af2e1820d,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o,f7d7e2daeb6a5c32302ddf44d8c6aa03d967188d2c220fa36da77de1d13fa565,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o,9c1d018e6753785af4319d74030197201c2edcb4f673b85a1b31942c2b334b9d,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o,15662b1fe3c429376c1bb6a0780b9536d569670e208db2b23d6e0278b60f5bc0,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o,bac5ba4fc55c8587fbee345af146f30a4f2d84a8835555ea7fa25cb30b034396,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o,fa37215a4e1df08c7a9eb6aa49e256b95ba1ec3ddbc3ac84013b1064ed85d109,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o,828eefe4e5cc24580ecc52fb80043e32cae0ddaed67aa7cdcc08e7d2333e97d2,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_demo.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,b6ef66bd60e25bc7aa8e263b147a2b1b1024948e2a884df1f9fdaec5af3d497a,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,2ef337b11f8ae15ec1b020d1b650b47762fb49d2ea175d74b9cc1bd2ff9fef42,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,fd415c0771cd7d865c6bfc0a6107848e7ed80e0eac050eb45481692a2ca5809e,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,5be110b127147cdd4464421774df44ef01a965b90d4831f88bcfe4c8f5f6e452,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,23f8dbbe7954d68e8abf3a98658cc60ebf5c85a2c42c1c12987f591f0499b585,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,cf93ea2556ca933394c18e4c23525c38db7694977f16cf987c33c39e9609b502,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,0c6746536308f9938bc326672e3fd70d2f3eb43cec7fe915771c5485d3b03a2b,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,7844dbf8d0619a7170bf7c8803984f2496d8c163dac2d61564033e952ea94851,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp.o.d,3a62d0323eac8965dedde7787a8efb69b0a98f9b69300f31a0ece037ba69a6a4,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_demo.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp.o,61ffd17218868b617582e5c94846b3e61c758c25414643840f2e591827216bee,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o,766caed12b6c10aa49138928e4f4f2bac8f1cd41778232c4b21e6fd8b349dbdc,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o,22667e1c6db2a1d4ebe43565bac9d0b70486ae5978f44323316898465ba17f44,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o,09c25079a8dede34bb82e44bdce80617b3c02e9b632f10346fddc62d81980f7e,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o,30c77b1451ec83ac3d7c29aef674553f3ee0d505cdedfd16e1ce1769f2a7b7a8,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o,4cbeaa2dbf7d7792fcd5059f613af4274d5bfa4a0dfb797d0c91f6b3bcf9adc3,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o,61ffd17218868b617582e5c94846b3e61c758c25414643840f2e591827216bee,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o,f0449718e162fd2e2ee5d8e1f5a95bbdad22bcef74b87ec6bfdcb5ed8603a135,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o,c85e83d099d62989178078e79e12e9f236c6ed9133703a4563c982670f8dc7d6,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_draw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,6ea7b0a5d42a35fb9275b3ac888704a4963b4a0b10beab59204a86022a8a9324,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,714cb57083a4002ad852e14df109c37e19d2fce9aa30fd73bacb4b02497c3daa,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,8d57f935a16044fbe5999e2b9cd62f7b1b8b1aec24a55bc0962b1667f3cd2b7f,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,7614fe3d26f2191c40140993a3834f24a6496d9bf2b936193df6792b356284bb,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,bce4189f1f4a4cdcb324c1814867cb10c4bfa4e79774b6d23d07e7e5d41f5929,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,edb35330d6b3332074afe78ff3f83a5b60272f37b9f7617ada1c9ec63fe55c78,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,18c624beb9804afc7bd970cb4d78916e622081c488c0fc329f10ccf0a02ddbc9,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,6787641d514579248af8622121b162f71ee5ad2df12566ecc7a23eb47c58903d,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_draw.cpp.o.d,6cc93bc9ade089aacbe7e23e70afe2cde6e1d7a1f3044f908964830801ed3c82,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_draw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp.o,708f8632a64661d4514aeeb22d3fba8b1de8b34f65aa357e6e576bdb724af7dc,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o,a1a6b28cfe24fe8c5e561bdb8c21a2b28d52f0f524b074520c1a5db3e2fef2cc,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o,f25847ae92b4de8eda2b735c478bcbd4f8e9e4cc200e7ac9cb41271538917df9,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o,bb554c2da6c91740349176bc5dc4672b8a77b97f0bb88eecedcbeda119dda5b5,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o,ba0f72e6907b94ea8abbb038ddc8102e136e7c08c2ada6cde7c9d14da7fbf102,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o,89b15f1704071b5c5298281c55353b41d683201af0302364a087824cb0e2d0ab,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o,708f8632a64661d4514aeeb22d3fba8b1de8b34f65aa357e6e576bdb724af7dc,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o,1577024f95ddfee10db943ccfaacd25a7b88065e078d978bf2bc1c25421caf51,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o,8ad1c6b10592b537433ecde87182a749a3391390c29be0381ee831d5c6046c2e,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_impl_glfw.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,5e469d766268e28e31166bfdbf60d4d2e4ccbd9520b533812b953599d4c6dfdd,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,85f0a4ca9b4fbecf66f237915b4f469c15a91c856d4987390517a8849674ffae,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,7a44f6732d81d412df6ad6925dc45a9a3c0447ffeb6b76a3cf30f2aaa0fb7280,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,2cac729d9b9cce54385e1e9f8db98a6f9122b182d02153c32a60bd545b44d9f4,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,b04f3500b02fac013d893e0bbc4f9213d2878cc03aa560c62113d6f5866568b1,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,443bc6db5c5eb2abae62924e2916889133f39c8bdbb8a9278851e4cf4650a768,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,de2cc7ab41f4de722b60908810ead696398fce8b330a6c84646401385ec1eb4b,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,d2172646d4b6a2bbd6b3d67ede518235d2e00abda29e6ee04315e24093db5bf6,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.cpp.o.d,ca4d16b981a8871b6ce940e28e38f88b3c642c1bfaa6027d911d58093ace2550,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_impl_glfw.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp.o,6eb6bcb8f10201bc40d97e11aca030b8da1e96d1b498a4258b2f71abdc9f66bd,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o,0b60492b990961790026e7b1482292a494d5616ea27f1ff3ab2ce6b9b287c37c,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o,ce34ad60cfbc1901b4de671e02c0799629aebbcb9480e9861487ec062800d66b,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o,e3e58dfbbc259e5763861d0122a5c3fc8e397cd0bc28039c8b24040a5d768a0a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o,56ce7cfdc8f96099ef6f89d755c68f27a47bcff1af5ffeca82da2d305c139761,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o,8a66b4f96ecb6989de614708ce6bb7f5f52a869271fd5cce4cf5a7cac346a6ae,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o,6eb6bcb8f10201bc40d97e11aca030b8da1e96d1b498a4258b2f71abdc9f66bd,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o,ac38c91049164d9b27969637469062dfe9d5395e28054f62240ca4fddd2dc5ab,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o,bd5bba39107d3a7f394cbcfae0422b507aecfcfe3f3c9c70526324229563088f,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_impl_opengl3.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,30067ae2abd24edf11505e24ea7cb32381e2484e3f056ba2a3500426279f4914,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,1604b8d8a9e3f3087338be9123bcd7f79a83a6c55d10006d64d92c55fba24d38,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,a56d06f1685c634a5ca836bb9348da4ccae5bcb6e8b53866e3f0620d46958773,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,194170e715d663dc953931cf4b0be64b72b0993b586da128408b277e9dddbf5b,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,4f10f275464e9a32142dd995c710e081651183a4579be876bc793764fbdb5c6e,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,4160967801e044252c001eb0bb65b6f2313754f61b16876fa1358cdc3ef7689f,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,abf3362a78187bc392cd1071d92996200ac9cd55dc7a03d142bd7249052ead77,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,8305e045fde35115a086570ad18c931ca1cf03c539a0fadca152599134e0730d,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.cpp.o.d,4c2c71cfc4c287b5fea35139e636ce74f8b78848aff0102c7327a254ffd8d9d2,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_impl_opengl3.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp.o,d773251895f46395b565d458f0b917e71464abe31cd59fde1aa04004b5fb08f1,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o,61300ea156a0767773c07c8458ab092361c669db21e063b8b94f5ad182d26995,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o,28b2d95ca85ec3ac509e56e5dfd194e092f21f60ae53943a0576153262de5517,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o,1d08e36648b77d8c2fe5239f53504e91baeb6f75c906602d40d5d306e1955ec7,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o,270d2c25ebb1de4f588d064004a136c5cff7225371fea7f62fafd73f8976e229,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o,7817f3cc1d8763988c368999728049181261ac2fb4df1f37123f49f8d29b8edb,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o,d773251895f46395b565d458f0b917e71464abe31cd59fde1aa04004b5fb08f1,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o,e661cb445b7d643bd238bfda9418ff3a1bb956436858bb9f9fd34a29003d53de,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o,5ac6d1fc93dfe12f88944e4ab6c570027dca181332a89a09612f40f0268087ea,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_widgets.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,7d3b6b36a0abb7395b849d4d31564b87636d7141b756155b8c7133abaddf4f9b,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,02a9569d3ccf6d5a851ef9649e50033bfe04ebf3422f7c5bb6e80f24c42eb7e0,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/depends/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,a1b84392ea76e24cf8f430da3145d32e44ab9a3a9aa6b47469ce9d959f5c5b4a,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/depends/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,4f21dc422790f55923fc505a288aa89411cdb49cca0c81266f527633b647c545,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/depends/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,19866f470b22bbc299182c20b005ee042b9d1723cc88f64ea9f077c8203cd94d,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/depends/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,a98cfd6081810d7fb851d7a445146c340f625f46e67fe356cab41c1d0947eb2a,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/depends/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,827df59017d70501b4faa4b0db2771a256a8fe7633e2020491145f2ff3cc76c0,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/depends/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,72f6dae41f67a2cc371d18f516b12910879e7cf9df735cc57742e619b98752ef,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/depends/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_widgets.cpp.o.d,09116a76107a8d90f8e52a7ce5c7cec4890907ad65f31a105adf54589b9eac6f,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/depends/imgui/imgui_widgets.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab02/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab0/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab02/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab0/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab02/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab0/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,integer.hpp,98abbde1905926b960ca16bca288bd1a5444f8acf126a04c7d08b04128648a7c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/integer.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,integer.hpp,7b72e4b3b849172b3b6ad88f33a2ddb9235d8b92bff4845abc45263f8facf034,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/integer.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,integer.hpp,561f8bde4b20d6f94c88913d96810a1b0042ddb2dade83f24d906ab1ffd71422,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/integer.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,integer.inl,7f179f693d713f1aba98c80902ddb855e7252b52e3ae84829fa93c7009d129b1,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/integer.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,integer.inl,37a148ec06f28e8e6af2ee98b215366c7fba0e55d45fd14a1fce5ebe30a29698,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/integer.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,86ee7b70117d74974764b36781724d0bbcde36614f966d869aeedd48d8346a08,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,f1afcda8e796cf450ce9e8527902c4361b19b85968d5f1c348b36a61edad619b,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,f465aef473bc25caea96ee11c7623d3d975cef0c1a68c52cc17fb255c1f3eb38,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,c8e4f4b42e9e366473df50970a1f11815096f56a0fe9e820220aca6d440a9589,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,0c2f0e87316ed1af5a241eed9b545da83a55564f14f5aeaaa28a6683e0d623d4,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,1dcb1b8d4cf81a34ff48199eefdab8934929864a92fd35fa94dffabbc6aa85cf,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,095861fd5075cc2d6c498a94a7b362d9f9f10ab850a35064ddbdf104ca0efb6e,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,9af6317d4686fda1826d7c1ebf75719b9aff1dd1bcd3d5f44d2ec39b9fecb28a,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,link.txt,1252b9a9e0035faf8751d7586eceb0c3fe8be1681b658f8c2847078fbbc44bef,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/link.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,348f852a26a56ab4cbf476df631d725c50afb74496851128911d1aaedd326507,CG/CG 2023/Labs/lab06 - Texture Mapping/code/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,f60d3457b364a759055e340fbe007cc25b0bff412d7b6f2ec681018b63ebea41,CG/CG 2023/Labs/lab02/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,aaa5b59bd71990475a7edab95376d9f1c6d471c85193bb88e87225d3d603f85a,CG/CG 2023/Labs/lab07 - Normal Mapping/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,318b27f4988becd3eecc5323dc8ea24d87ddf1651c5e240b6f76e0c567768278,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,958f6c012793947a18990455c45645f180fec691dafbcc9c6736146101145712,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,c9bcb572b05b958a49e0f33c660f6f554ef6625f67b8767b270d73f631813619,CG/CG 2023/Labs/lab08 - Environment Mapping/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,81eebdedc7864d83fef0053fc99ab9ea09f8d19b54f8a596f6a28a1e2ff0f08a,CG/CG 2023/Labs/lab0/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,a1537a5b4b52ee19c52f1601737940a24925f267204eb00887024e4aa0efcc99,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,90d548f8826fa0e2279ba0fbe95f1a71cd38cbdf5414c9f74934ebe6f29187d1,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/src/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,dcf1351499405d93948183f92506189333b2484eb54cce29f47dcaac5ab9cc96,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/src/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,258e288930e15706aba28396cb29357078f42e1f69fcf64660d8238d08116129,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/src/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,70abd9e355e55d957304d1da07416d7b20bca0c2eac31d2c85c9a1cfca4c91c2,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/src/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,7f1cdd20bbe8d7e28ec71f230ea74f5853a4ff64ca42fcb1ca9d605b065636c1,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/src/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,66f67b440e6610e7c46d1a93465509e141202563921091ab65e04df6eb0e4515,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/src/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,1cf1b414240f727f1232502d725d5280556e437450a4d6f7f958d8e2d3ab5a6a,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/src/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o,31c97b8251ff6f7f217ed98ba4522a5339bd718fcf316438c16502a3d717be3c,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/src/main.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,09fa49cdf6028048d12f1afd6acec132284a377309b60fa9cb93d622eafada58,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,9442a0ba6b5b66a524a7912d48c2e73930ee5c033e1631a602f5b58535d627b8,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/src/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,dbd5b5fad9f297a0ee579b18640b66cadd0c0773a1377ead7fda70a6a4ef2c9d,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/src/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,b103ef906a9ad9b7a56a24525975906f56ae1e093234c1261a1dd3c116b756cc,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/src/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,7ccf20647cdb33ca96c9fafc303b8c64594cfa40028b5755ea325456d0e9e78a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/src/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,43b8c38c2a7f35057bcfae19254dbc6e819d0cf7fd2076de9336eb9a522c64cd,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/src/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,ba9bec18a5077240c30538b87a581b149b50f7f44cf7c19827988a9d45eece5f,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/src/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,5f4157a3c7e5c11c8420dc3a2c138c2f629ef89058f93733691331da1f036266,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/src/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp.o.d,b125c77c7d1bb3edc734b009c35d34805356c160b1fb3f0af0dfaac4cca04e78,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/src/main.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,matrix_transform.hpp,8a77c7a08b5521ed8580267db0d342832c0e357da8e54e0a6408d97287ce76fd,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/matrix_transform.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,matrix_transform.hpp,9913b3aca3817a34daf0f1c3cb7ef62737af0f6e29aef5d851c37eec2a6c14c7,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/matrix_transform.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,matrix_transform.inl,c39b77df42c51b443c400397992853d6ce221ad3d7a12a81aac8ca6f7fef1691,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/matrix_transform.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,matrix_transform.inl,a767002867b0bd37290566db2257345e674caa5ee2b655ce719f8027f4e37e10,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/matrix_transform.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,packing.hpp,1210b6194da61a9b13b287c191a2d89242ebfa3518feab1fe9a3a49069c0f083,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/packing.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,packing.hpp,c45b97710a9c4755f741b4cab1e91d0437a40bce332a3c9ea3b13f72809ebf4d,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/packing.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,86108f6991da30fece5ccf898c0e7da8143505d94a493e8c28b9af07ccaa0cbb,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/lab6.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,85bdca3c423ea54f4bae8b7f0083957ddecbd6691664fe776c5f3e1e7c05767e,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,046ca3b5fddf4429c1d5e51d5c8bbfca65d70555c265af16d82f52804749457c,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,046ca3b5fddf4429c1d5e51d5c8bbfca65d70555c265af16d82f52804749457c,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,046ca3b5fddf4429c1d5e51d5c8bbfca65d70555c265af16d82f52804749457c,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,046ca3b5fddf4429c1d5e51d5c8bbfca65d70555c265af16d82f52804749457c,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,85bdca3c423ea54f4bae8b7f0083957ddecbd6691664fe776c5f3e1e7c05767e,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,046ca3b5fddf4429c1d5e51d5c8bbfca65d70555c265af16d82f52804749457c,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.make,046ca3b5fddf4429c1d5e51d5c8bbfca65d70555c265af16d82f52804749457c,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/progress.make,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.marks,aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build/CMakeFiles/progress.marks,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.marks,25d4f2a86deb5e2574bb3210b67bb24fcc4afb19f93a7b65a057daa874a9d18e,CG/CG 2023/Labs/lab02/code/CMakeFiles/progress.marks,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.marks,2e6d31a5983a91251bfae5aefa1c0a19d8ba3cf601d0e8a706b4cfa9661a6b8a,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/progress.marks,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.marks,2e6d31a5983a91251bfae5aefa1c0a19d8ba3cf601d0e8a706b4cfa9661a6b8a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/progress.marks,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.marks,2e6d31a5983a91251bfae5aefa1c0a19d8ba3cf601d0e8a706b4cfa9661a6b8a,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/progress.marks,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.marks,25d4f2a86deb5e2574bb3210b67bb24fcc4afb19f93a7b65a057daa874a9d18e,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/progress.marks,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,progress.marks,2e6d31a5983a91251bfae5aefa1c0a19d8ba3cf601d0e8a706b4cfa9661a6b8a,CG/CG 2023/Labs/lab0/code/CMakeFiles/progress.marks,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,quaternion.hpp,9e8c97ce43770801569459ab254d42b9700600223e3a58335a10a072f1445ed5,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/quaternion.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,quaternion.hpp,4512185d25adf15d72487ccb30de3734292245ccca949f77644f1a7d189a40a4,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/quaternion.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,quaternion.inl,29398fcff39effaf8e2e6a66e5b1640ddcb935055d55a4ae73fdfc26a0669e8a,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/quaternion.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,quaternion.inl,0c9421d6f4688907385366ce9763211bab5b78afe321b3c06079ffc6f58ff6b6,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/quaternion.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,scalar_relational.hpp,130430856d5090150c58504edc979e11b4e7f8a5ca2bfe4be117366952efa01a,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/scalar_relational.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,scalar_relational.hpp,9a739dee17f8bdc1770b395b84985d04b35427bffc588cd5a3e031ce2bbb743e,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/scalar_relational.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,scalar_relational.inl,32af3efa4f2bac8f2db8f239cfe4fbe31b5d593982574a1060fe1a40dc176895,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/scalar_relational.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,scalar_relational.inl,97a5cf9f71a43e7f36c846d86ee62fe2200e24dbea77e4ad0f0618d8e037ee54,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/scalar_relational.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot.png,9c4c5856935bcbd65df4b205436d13627c1168919737bf2aef0a828c10b27ea1,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/screenshot.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot.png,c12dae89cea64c45bae1a8fcba6bddfa31fe6d2a94edfa733b7a896b4385bd20,CG/CG 2023/Labs/lab02/screenshot.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot_1.png,35182efcb5706c11ddd630957d14de12ea2c91f4f383a2ff13b35404b544c189,CG/CG 2023/Labs/lab08 - Environment Mapping/screenshot_1.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot_1.png,0a022a1eee87a5f91ad07d8ca13e4a61a9055febccd02cccf2d725838b4b5fc9,CG/CG 2023/Labs/lab03/screenshot_1.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot_2.png,ad1445f86381e04fa01d377beb50e6d5da7754b5ab0801767dda0c59cf194548,CG/CG 2023/Labs/lab08 - Environment Mapping/screenshot_2.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot_2.png,6bfaf48a605153e55ad772cfdae32de6df3045cba4cc7e330010ecb65bd1671d,CG/CG 2023/Labs/lab03/screenshot_2.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,settings.json,d5b604b86e44452d5bb545eef118da5473a143b7ad0d0b6bac157e305e61179c,CG/CG 2023/Labs/lab05 - Implementing Shaders/.vscode/settings.json,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,settings.json,de578eec9eded707260f781df21e2f2cb16e50ce6d5fd21881e5b16c9b518693,CG/CG 2023/Labs/lab0/.vscode/settings.json,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,settings.json,387651b83ef5bc19729fa32d16efeeb05b557d7b92c8d98b03782f4c6f1e7a37,CG/CG 2023/Assignments/Assignment04/.vscode/settings.json,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,stb_image.h,8e5b0d717dfc8a834c97ef202d20e78d083d009586e1731c985817d0155d568c,CG/CG 2023/Labs/lab06 - Texture Mapping/code/stb/stb_image.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,stb_image.h,8e5b0d717dfc8a834c97ef202d20e78d083d009586e1731c985817d0155d568c,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/stb/stb_image.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,stb_image.h,91f435e0fc6a620018b878b9859c74dff60d28046f87e649191ad6f35a98c722,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/stb/stb_image.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,stb_image_write.h,51998500e9519a85be1aa3291c6ad57deb454da98a1693ab5230f91784577479,CG/CG 2023/Labs/lab06 - Texture Mapping/code/stb/stb_image_write.h,EXACT_DUPLICATE
+CG,2023,stb_image_write.h,51998500e9519a85be1aa3291c6ad57deb454da98a1693ab5230f91784577479,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/stb/stb_image_write.h,EXACT_DUPLICATE
+CG,2023,texture.jpg,7d7f5428c3234ec378ebc725b2b0acdb39cd7457fe761ddd311d861007ca8ae2,CG/CG 2023/Labs/lab06 - Texture Mapping/code/texture.jpg,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,texture.jpg,f2e1500eae22268ce2dc186445a39db8208e5df6c10009a6e34055c79126a717,CG/CG 2023/Labs/lab07 - Normal Mapping/code/texture/texture.jpg,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,type_aligned.hpp,f5b765623b8f2734c436fa4fdf6aa58afb86396810cec0cd9b3976517e4e2e3d,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/type_aligned.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,type_aligned.hpp,17189446aa8993f250aac17ea966e8c461c2411db4cb1ff7aa716cdf869e538c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/type_aligned.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,f4f97efd35e7fca13a3bc73b6898d4ef30b59b4545557d11788d3c3d46c25057,CG/CG 2023/Labs/lab02/code/src/utils/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,3fa33ef8ee5c6ecf8cf59b67aa38ef20c8aad30c3cad4f4f0c0a732bc1de34df,CG/CG 2023/Labs/lab07 - Normal Mapping/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,c4c8a27359512838bcb273b3acae728b0e1f6ecdbbe20cc8c97c1c7319f31915,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,f6481487732516cc07ab4c4095610b569c3078156986922baf75dea6ba507229,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,069ccad85cbc8d13b922f0ac5be1146422703afb65bd40d8354234b10aeb4f36,CG/CG 2023/Labs/lab08 - Environment Mapping/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,50623d916066343cb3fd9b781f52c131cbc3d908ce94380be49ccee561e91fd1,CG/CG 2023/Labs/lab0/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o,82e71ba2a47f8f7b95457e6bd11f6b750cd86a3f0e3689e3fde3bf999cc0f61b,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/src/utils/utils.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o,e2538dc4f709d4413cf6764df8d0ecdc98357e60fd28a3b2ead81d033aa957f2,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/src/utils.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o,293a93077105636f5aca4d0c106002d943e402cc465e03403453cfde8b0b45b8,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/src/utils.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o,5d32d7695e86a233af4bac0728cb20a6deb6ddca08d70a2dfab06632870f2cdf,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/src/utils.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o,d5b67f874d17b424d6971c188badd96f64366955458617cf7521f7ecd85d4b43,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/src/utils.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o,c427e7d1d27103ba21eb9b51f4a422080fa28a92420e2ca441554c72b54f9869,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/src/utils.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o,5256e6a8d59bd0b6d35b21c233cef8cbc6972e3ba10b7c9538b28bcf7faeafc7,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/src/utils.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o,82d313904bc127e4cb660ee9856b6284ce4ca7a03e36d7f8ba9dfecb6f9a832d,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/src/utils.cpp.o,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o.d,478aaf589d1c43018e69ab8cd6e1cdc8b885e147166e3976f9aaa3c6c78e889c,CG/CG 2023/Labs/lab02/code/CMakeFiles/Lab2.dir/src/utils/utils.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o.d,cc7066916d76300310b3c0795315b359d72896bf89ce24f25de768b5b0334def,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build/CMakeFiles/lab7.dir/src/utils.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o.d,419e35adfb9ecc43ee8ccae0e8f4b243a925dce5bf1599cc1b4fc50669e04625,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/Assignment01.dir/src/utils.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o.d,b17a4d46f025f5d82ab7e793f31288bf5f8f946c58ccdad88ae97ad6b9844627,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeFiles/lab1.dir/src/utils.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o.d,8cbb2da8403107634e314b978c88f449447d3aab7d7496d3653fb4def4c8c324,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build/CMakeFiles/lab5.dir/src/utils.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o.d,a189d81812b66944ae8b22bb329d6d0ff78659066b2e79c2ac697be86d506490,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build/CMakeFiles/Lab07.dir/src/utils.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o.d,28b766415e4f0da35865409bf40020879fa3be960db5c0f8ae4071666e7516eb,CG/CG 2023/Labs/lab0/code/CMakeFiles/Lab02.dir/src/utils.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp.o.d,f542362eeab357e07506c8b04150d16333c8683c2696e759f67f319180b989f2,CG/CG 2023/Labs/lab0/code/CMakeFiles/lab0.dir/src/utils.cpp.o.d,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,1fac16dc54ba64a69f0c2685ca42bffa8c5e2cab70626e413d349b9161fea3ff,CG/CG 2023/Labs/lab07 - Normal Mapping/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,33db818984df6731f565accb7f3045564798ee92a08d3260494ee7b2b75834d9,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,f31d7057074567d95181b3066f5861b3e29ef2d5592ace90333e84609ca9dd1e,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,d98ab36db6760efd5142d5439112571f1af7119491a0f6a4634e73abf862a097,CG/CG 2023/Labs/lab08 - Environment Mapping/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,0ba1134dec21b5ac3e0d3685e4e2488ee5edc54369aec77be49d4a958ac7aa71,CG/CG 2023/Labs/lab0/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vector_relational.hpp,d31e49c0b04d7904882183f538bb49ab4f8827583053a5cea482facea451e37e,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/vector_relational.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vector_relational.hpp,8a2a257e7d7b7d5544a28da2730f6f9fc7c87a3611695415931a15848016eeb2,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/vector_relational.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vshader.vs,a66ba0db84965cfcfdb251742adbede20894ad1a18cfffbbf8eded24cfb4b787,CG/CG 2023/Labs/lab02/code/shaders/vshader.vs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vshader.vs,70f7fb32e84d7bf6ee3d4bc32408e26ea72e05e348122928f55aa1014093d1d2,CG/CG 2023/Labs/lab07 - Normal Mapping/code/shaders/vshader.vs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vshader.vs,d2d3674641fb760c3cb948898250cbf5e2191540c94cfab3fd3b8a1de3588d08,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/shaders/vshader.vs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vshader.vs,8d7a6fcf734c81dfe15f3adc93311afae639345c3911b7d5e8d41a4daf9f5a5f,CG/CG 2023/Labs/lab0/code/shaders/vshader.vs,SAME_NAME_DIFFERENT_CONTENT
+CGAS,2024,CGAS2024 Mid Semester Rubric.pdf,071538ffe597ca1408f289dd75b157ae2d8b19bbe914095b69c9925cdb279ec7,CGAS/CGAS2024 Mid Semester Rubric.pdf,EXACT_DUPLICATE
+CGAS,2024,CGAS2024 Mid Semester Rubric.pdf,071538ffe597ca1408f289dd75b157ae2d8b19bbe914095b69c9925cdb279ec7,CGAS/2024/CGAS2024 Mid Semester Rubric.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-1-Solution.pdf,085958ced2d4b500ad533d7bd6cf6d98e0cb97c94aa26a082cadd124c271a962,DS/DS 2025/Quiz-1-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-1-Solution.pdf,085958ced2d4b500ad533d7bd6cf6d98e0cb97c94aa26a082cadd124c271a962,DS/DS 2025/Quizzes/Quiz-1-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-1.pdf,438636370802b5dd99013278812868c60e94f6e9c359365326b520d40728bc59,DS/DS 2025/Quiz-1.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-1.pdf,438636370802b5dd99013278812868c60e94f6e9c359365326b520d40728bc59,DS/DS 2025/Quizzes/Quiz-1.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-2-Solution.pdf,7f0b7941182cb5362b1eea48ff9120a26ac6842c73cc71ee99f26fb49b2fafeb,DS/DS 2025/Quiz-2-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-2-Solution.pdf,7f0b7941182cb5362b1eea48ff9120a26ac6842c73cc71ee99f26fb49b2fafeb,DS/DS 2025/Quizzes/Quiz-2-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-2.pdf,9c361670890aa0bc69151c6320b5d412b46cd0775dd84b5cba200421e4798956,DS/DS 2025/Quiz-2.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-2.pdf,9c361670890aa0bc69151c6320b5d412b46cd0775dd84b5cba200421e4798956,DS/DS 2025/Quizzes/Quiz-2.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-3-Solution.pdf,8add5ce65d88d3ed5700ed2f5b7b80b32716bda07ad9b7bfe4e4facc50032dfa,DS/DS 2025/Quiz-3-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-3-Solution.pdf,8add5ce65d88d3ed5700ed2f5b7b80b32716bda07ad9b7bfe4e4facc50032dfa,DS/DS 2025/Quizzes/Quiz-3-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-3.pdf,a38e0ab7eb817f54cb51388da2c07075fa497009ac7f45918c82f6ec5a1934b9,DS/DS 2025/Quiz-3.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-3.pdf,a38e0ab7eb817f54cb51388da2c07075fa497009ac7f45918c82f6ec5a1934b9,DS/DS 2025/Quizzes/Quiz-3.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-4-Solution.pdf,17b3278b4b67e4122262eab2c5fdd50f1de1b84190be0eacc16356f5405d4a21,DS/DS 2025/Quiz-4-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-4-Solution.pdf,17b3278b4b67e4122262eab2c5fdd50f1de1b84190be0eacc16356f5405d4a21,DS/DS 2025/Quizzes/Quiz-4-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-5-Solution.pdf,cc916d7e773c7f790beaa3b1f758b8292eeeff10d77452dae22d076c5967b85e,DS/DS 2025/Quiz-5-Solution.pdf,EXACT_DUPLICATE
+DS,2025,Quiz-5-Solution.pdf,cc916d7e773c7f790beaa3b1f758b8292eeeff10d77452dae22d076c5967b85e,DS/DS 2025/Quizzes/Quiz-5-Solution.pdf,EXACT_DUPLICATE
+DS,2025,quiz_6.pdf,aecb89bd24b8a9e113beb505be9aed48fd45106426461f55ddd866ee92129480,DS/DS 2025/quiz_6.pdf,EXACT_DUPLICATE
+DS,2025,quiz_6.pdf,aecb89bd24b8a9e113beb505be9aed48fd45106426461f55ddd866ee92129480,DS/DS 2025/Quizzes/quiz_6.pdf,EXACT_DUPLICATE
+DSA,2024,2023190_q1.cpp,c2e1e260999deb0eb257d1b71d73eaec3cf412195d71d9c61b514cce1c26f8bd,DSA/DSA 2024/DSA L/DSA L 006-b/2023190_q1.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190_q1.cpp,44276f3de9cbf9320b7c5580b7fa1e44c02f00839789fbadae8ba93c68c9873b,DSA/DSA 2024/DSA L/DSA L 005-b/2023190_q1.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190q1.cpp,23b8ad2f64f1fbc10a9d8cdacb0f59a4a5bc5aa73a17feaef317a973ca4d4660,DSA/DSA 2024/DSA L/DSA L 003-b/2023190q1.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190q1.cpp,d176e3652587d56d54349b6f271183333a659cc71211a322bee9c0ae5ed72551,DSA/DSA 2024/DSA L/DSA L 004-b/2023190q1.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190q2.cpp,af18579e53ad4a09310f01ac7869d701cd5cb3db4d5efd0d312f64e419a0d8fc,DSA/DSA 2024/DSA L/DSA L 003-b/2023190q2.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190q2.cpp,f88b91cc0db0bc8050f017c3207b628efdfce6adc98a2b47a290e9689f94bac7,DSA/DSA 2024/DSA L/DSA L 004-b/2023190q2.cpp,SAME_NAME_DIFFERENT_CONTENT
+IIS,2025,IIS_Quiz_4_rubric.pdf,467c691791a5855282a5a4773a431e4cdf4d70dfdf1965aa5b5de706296d4c40,IIS/IIS 2025/IIS_Quiz_4_rubric.pdf,EXACT_DUPLICATE
+IIS,2025,IIS_Quiz_4_rubric.pdf,467c691791a5855282a5a4773a431e4cdf4d70dfdf1965aa5b5de706296d4c40,IIS/IIS 2025/Quizzes/IIS_Quiz_4_rubric.pdf,EXACT_DUPLICATE
+IIS,2025,IIS_end_sem_rubric.pdf,f5e953e4706ee267a15d2c6799a74fe6a0cda3b2e1c90dd5dc5587b98362acb9,IIS/IIS 2025/IIS_end_sem_rubric.pdf,EXACT_DUPLICATE
+IIS,2025,IIS_end_sem_rubric.pdf,f5e953e4706ee267a15d2c6799a74fe6a0cda3b2e1c90dd5dc5587b98362acb9,IIS/IIS 2025/Midsem and Endsem/IIS_end_sem_rubric.pdf,EXACT_DUPLICATE
+IIS,2025,Mid_sem_rubric_solution.pdf,63f0d75fd41d739db895c5c412009a1e71ee51342803c0e0db627034fe89faa6,IIS/IIS 2025/Mid_sem_rubric_solution.pdf,EXACT_DUPLICATE
+IIS,2025,Mid_sem_rubric_solution.pdf,63f0d75fd41d739db895c5c412009a1e71ee51342803c0e0db627034fe89faa6,IIS/IIS 2025/Midsem and Endsem/Mid_sem_rubric_solution.pdf,EXACT_DUPLICATE
+IIS,2025,Practice Questions I.pdf,e2cebf449bd70ba2168b98d839323a935d717da0f87789eb3ccf6b9289af576e,IIS/IIS 2025/Practice Questions I.pdf,EXACT_DUPLICATE
+IIS,2025,Practice Questions I.pdf,e2cebf449bd70ba2168b98d839323a935d717da0f87789eb3ccf6b9289af576e,IIS/IIS 2025/Practice Sets/Practice Questions I.pdf,EXACT_DUPLICATE
+IIS,2025,Practice questions II.pdf,bad61a6037b3a1f1cb9392b855299526c331edf914172e1a024dd285187364f4,IIS/IIS 2025/Practice questions II.pdf,EXACT_DUPLICATE
+IIS,2025,Practice questions II.pdf,bad61a6037b3a1f1cb9392b855299526c331edf914172e1a024dd285187364f4,IIS/IIS 2025/Practice Sets/Practice questions II.pdf,EXACT_DUPLICATE
+IIS,2025,Quiz -1 with Answers.pdf,26660a3196cc26baca7e8bdbe5f5b4dc2c3e4fc64fb40512a72035f662d96bc6,IIS/IIS 2025/Quiz -1 with Answers.pdf,EXACT_DUPLICATE
+IIS,2025,Quiz -1 with Answers.pdf,26660a3196cc26baca7e8bdbe5f5b4dc2c3e4fc64fb40512a72035f662d96bc6,IIS/IIS 2025/Quizzes/Quiz -1 with Answers.pdf,EXACT_DUPLICATE
+IIS,2025,Quiz_2_answers.pdf,fb3889ba6abb5a7750e7d3995ece7d0276d73568fd2fb5311de1a56c43fdd982,IIS/IIS 2025/Quiz_2_answers.pdf,EXACT_DUPLICATE
+IIS,2025,Quiz_2_answers.pdf,fb3889ba6abb5a7750e7d3995ece7d0276d73568fd2fb5311de1a56c43fdd982,IIS/IIS 2025/Quizzes/Quiz_2_answers.pdf,EXACT_DUPLICATE
+IIS,2025,Quiz_3_answers.pdf,b666e7ebc5a262e1e5f93a04ed3fb341315ef32a5193292ff3bf55400f756502,IIS/IIS 2025/Quiz_3_answers.pdf,EXACT_DUPLICATE
+IIS,2025,Quiz_3_answers.pdf,b666e7ebc5a262e1e5f93a04ed3fb341315ef32a5193292ff3bf55400f756502,IIS/IIS 2025/Quizzes/Quiz_3_answers.pdf,EXACT_DUPLICATE
+OS,2025,1-2-B.c,a6cf72ee733e341cfd6c9ea8fd88efa0a4cdc26276c5fed8ed047b2cd4f7b85a,OS/OS-B 2025/Labs/1-2-B.c,EXACT_DUPLICATE
+OS,2025,1-2-B.c,a6cf72ee733e341cfd6c9ea8fd88efa0a4cdc26276c5fed8ed047b2cd4f7b85a,OS/OS 2025/OS 2025 SecB/Labs/1-2-B.c,EXACT_DUPLICATE
+OS,2025,1-3-A.c,f843fb72ec14a49b51a8e1025ed625895b42d5ed082e9e481082599af8c26b55,OS/OS-B 2025/Labs/1-3-A.c,EXACT_DUPLICATE
+OS,2025,1-3-A.c,f843fb72ec14a49b51a8e1025ed625895b42d5ed082e9e481082599af8c26b55,OS/OS 2025/OS 2025 SecB/Labs/1-3-A.c,EXACT_DUPLICATE
+OS,2025,Introduction to C lecture 1.pdf,18ec31e1460cd5ceb4c4c4d22a33d1e309629740b9264b9fe6b34ddd0e8cf034,OS/OS-B 2025/Lectures/Introduction to C lecture 1.pdf,EXACT_DUPLICATE
+OS,2025,Introduction to C lecture 1.pdf,18ec31e1460cd5ceb4c4c4d22a33d1e309629740b9264b9fe6b34ddd0e8cf034,OS/OS 2025/OS 2025 SecB/Lectures/Introduction to C lecture 1.pdf,EXACT_DUPLICATE
+OS,2025,Introduction to C lecture 2.pdf,3d729b291bb48db2dd924ae7086c7f4b590dfd8c43f47db6e68e8c6df7a14f3a,OS/OS-B 2025/Lectures/Introduction to C lecture 2.pdf,EXACT_DUPLICATE
+OS,2025,Introduction to C lecture 2.pdf,3d729b291bb48db2dd924ae7086c7f4b590dfd8c43f47db6e68e8c6df7a14f3a,OS/OS 2025/OS 2025 SecB/Lectures/Introduction to C lecture 2.pdf,EXACT_DUPLICATE
+OS,2025,Introduction to C lecture 3.pdf,e0f402e773aa975612d72ed8539c9273f7a273593c660dee7c3aa750b4e41fe5,OS/OS-B 2025/Lectures/Introduction to C lecture 3.pdf,EXACT_DUPLICATE
+OS,2025,Introduction to C lecture 3.pdf,e0f402e773aa975612d72ed8539c9273f7a273593c660dee7c3aa750b4e41fe5,OS/OS 2025/OS 2025 SecB/Lectures/Introduction to C lecture 3.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 1.pdf,2018f621f2d121de8b6733dc37bcd50be18c2a95242a5bf153aa4e08c9be84fb,OS/OS-B 2025/Lectures/Lecture 1.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 1.pdf,2018f621f2d121de8b6733dc37bcd50be18c2a95242a5bf153aa4e08c9be84fb,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 1.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 10.pdf,84e5f37ad269f4af712ab5a83b49bdb74dc42e56b8b5a2bfb09209b1799ad371,OS/OS-B 2025/Lectures/Lecture 10.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 10.pdf,84e5f37ad269f4af712ab5a83b49bdb74dc42e56b8b5a2bfb09209b1799ad371,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 10.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 11.pdf,00942b79917b7889d1db6bb165a805fbb0fa8b5ae7a927c628b7bca409a52e89,OS/OS-B 2025/Lectures/Lecture 11.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 11.pdf,00942b79917b7889d1db6bb165a805fbb0fa8b5ae7a927c628b7bca409a52e89,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 11.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 13.pdf,21b3c7a021493582eb24175d772cefccd18eee78ddddf0649188fbf03d7d09e4,OS/OS-B 2025/Lectures/Lecture 13.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 13.pdf,21b3c7a021493582eb24175d772cefccd18eee78ddddf0649188fbf03d7d09e4,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 13.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 14.pdf,819d389d1875ab99b1a2bc8ad09778a63cad6083b93aa473beb318447a0bb3a1,OS/OS-B 2025/Lectures/Lecture 14.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 14.pdf,819d389d1875ab99b1a2bc8ad09778a63cad6083b93aa473beb318447a0bb3a1,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 14.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 15.pdf,6bcc0dc55eb827e5141b767e18645024ceaff9821e3ae06590fc829aba93a953,OS/OS-B 2025/Lectures/Lecture 15.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 15.pdf,6bcc0dc55eb827e5141b767e18645024ceaff9821e3ae06590fc829aba93a953,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 15.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 16.pdf,d9d43012a5368f7c9026cd120f0c6d45ab85e9ed6521bd890fb190e044b8898e,OS/OS-B 2025/Lectures/Lecture 16.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 16.pdf,d9d43012a5368f7c9026cd120f0c6d45ab85e9ed6521bd890fb190e044b8898e,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 16.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 17.pdf,0e611f9dc62f59a0bbc98fe1e50215fa0b6febec25f262536b327a45bca366b4,OS/OS-B 2025/Lectures/Lecture 17.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 17.pdf,0e611f9dc62f59a0bbc98fe1e50215fa0b6febec25f262536b327a45bca366b4,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 17.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 18.pdf,06ea2aea9c2d8f072c9c27f6a80db9aaf50ccd5c105aa6c2ac5dfd94cc044f29,OS/OS-B 2025/Lectures/Lecture 18.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 18.pdf,06ea2aea9c2d8f072c9c27f6a80db9aaf50ccd5c105aa6c2ac5dfd94cc044f29,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 18.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 19.pdf,0482e147db6699d25f018d88eb769a3215cfe06b6bd728ae7c0af5f9cd08465d,OS/OS-B 2025/Lectures/Lecture 19.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 19.pdf,0482e147db6699d25f018d88eb769a3215cfe06b6bd728ae7c0af5f9cd08465d,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 19.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 2.pdf,afb9c49d4f7a9dbc642d2a3a5f384ba343e59b0391b81986e9cb4676e04c7834,OS/OS-B 2025/Lectures/Lecture 2.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 2.pdf,afb9c49d4f7a9dbc642d2a3a5f384ba343e59b0391b81986e9cb4676e04c7834,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 2.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 20.pdf,08603cd235a0e39b8ecabfaf3b39834c6162a084bf915b2af7f51589838b8f16,OS/OS-B 2025/Lectures/Lecture 20.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 20.pdf,08603cd235a0e39b8ecabfaf3b39834c6162a084bf915b2af7f51589838b8f16,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 20.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 3.pdf,66a08ac38aea6ca1b212419d2481b8456ef7936461d23447d20cfa825bb88d41,OS/OS-B 2025/Lectures/Lecture 3.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 3.pdf,66a08ac38aea6ca1b212419d2481b8456ef7936461d23447d20cfa825bb88d41,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 3.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 4.pdf,84678a832fd246ce6aacf0e7caa1f5f65d739c4272309e8a9c68790d5a362b10,OS/OS-B 2025/Lectures/Lecture 4.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 4.pdf,84678a832fd246ce6aacf0e7caa1f5f65d739c4272309e8a9c68790d5a362b10,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 4.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 5.pdf,c18cd806903391866b44c9d970bf4aace050bc40f4d5f8e631c7761c86e08229,OS/OS-B 2025/Lectures/Lecture 5.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 5.pdf,c18cd806903391866b44c9d970bf4aace050bc40f4d5f8e631c7761c86e08229,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 5.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 6.pdf,abd45e9a38542a149590d76ae3f0b492728f97d4d70233f36f78e92b7c8e65ae,OS/OS-B 2025/Lectures/Lecture 6.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 6.pdf,abd45e9a38542a149590d76ae3f0b492728f97d4d70233f36f78e92b7c8e65ae,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 6.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 7.pdf,afea53fdaf0d963cec7c73cd8fd0b0d752d44ed1a44761f7c872e14b81648449,OS/OS-B 2025/Lectures/Lecture 7.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 7.pdf,afea53fdaf0d963cec7c73cd8fd0b0d752d44ed1a44761f7c872e14b81648449,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 7.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 8.pdf,dd3ccc550f30a55f55315e7f80949daad13e98eb143c8aa66056b5b435f38db8,OS/OS-B 2025/Lectures/Lecture 8.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 8.pdf,dd3ccc550f30a55f55315e7f80949daad13e98eb143c8aa66056b5b435f38db8,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 8.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 9.pdf,8ceb62d80125b0820208756451c852555f217e179f1093bf655e31cc69580bfa,OS/OS-B 2025/Lectures/Lecture 9.pdf,EXACT_DUPLICATE
+OS,2025,Lecture 9.pdf,8ceb62d80125b0820208756451c852555f217e179f1093bf655e31cc69580bfa,OS/OS 2025/OS 2025 SecB/Lectures/Lecture 9.pdf,EXACT_DUPLICATE
+OS,2025,OS - Tut3.pdf,3e2e72ab813a5c670cef093cf63f9848d2f53996fc885f2c1e403ed20e8a6ba6,OS/OS-B 2025/Tutorials/OS - Tut3.pdf,EXACT_DUPLICATE
+OS,2025,OS - Tut3.pdf,3e2e72ab813a5c670cef093cf63f9848d2f53996fc885f2c1e403ed20e8a6ba6,OS/OS 2025/OS 2025 SecB/Tutorials/OS - Tut3.pdf,EXACT_DUPLICATE
+OS,2025,OS TUT-1 S-B.pptx,01dc045201aad51b7c72d143b8dea2ae3b127a94f3edd4748916bdf2dd861858,OS/OS-B 2025/Tutorials/OS TUT-1 S-B.pptx,EXACT_DUPLICATE
+OS,2025,OS TUT-1 S-B.pptx,01dc045201aad51b7c72d143b8dea2ae3b127a94f3edd4748916bdf2dd861858,OS/OS 2025/OS 2025 SecB/Tutorials/OS TUT-1 S-B.pptx,EXACT_DUPLICATE
+OS,2025,OS TUT-2 Section B.pptx,152f748fea59c4355a0d908f42af89189add0bcacf776eb8c360a5ab9a08a9d5,OS/OS-B 2025/Tutorials/OS TUT-2 Section B.pptx,EXACT_DUPLICATE
+OS,2025,OS TUT-2 Section B.pptx,152f748fea59c4355a0d908f42af89189add0bcacf776eb8c360a5ab9a08a9d5,OS/OS 2025/OS 2025 SecB/Tutorials/OS TUT-2 Section B.pptx,EXACT_DUPLICATE
+OS,2025,OS-SecB-EndsemExam-Rubric.pdf,69da63a4fc496173f7a63608b579c56c69347ff50b56c62617b8f7abd87e8a7d,OS/OS (Sec B) 2025/OS-SecB-EndsemExam-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,OS-SecB-EndsemExam-Rubric.pdf,69da63a4fc496173f7a63608b579c56c69347ff50b56c62617b8f7abd87e8a7d,OS/OS 2025/OS 2025 SecB/OS-SecB-EndsemExam-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Practice solutions_upd.pdf,34a510c450d5c0d428217fa324d8db9d89669c3b4231ac4efc32f5248cf58b4f,OS/OS-B 2025/Labs/Practice solutions_upd.pdf,EXACT_DUPLICATE
+OS,2025,Practice solutions_upd.pdf,34a510c450d5c0d428217fa324d8db9d89669c3b4231ac4efc32f5248cf58b4f,OS/OS 2025/OS 2025 SecB/Labs/Practice solutions_upd.pdf,EXACT_DUPLICATE
+OS,2025,Practice-Assignment2.pdf,0348aebc7e1d872f8c5fd160a91929ed8edaf2fba8a0f98bd8d006c757c28b33,OS/OS-B 2025/Labs/Practice-Assignment2.pdf,EXACT_DUPLICATE
+OS,2025,Practice-Assignment2.pdf,0348aebc7e1d872f8c5fd160a91929ed8edaf2fba8a0f98bd8d006c757c28b33,OS/OS 2025/OS 2025 SecB/Labs/Practice-Assignment2.pdf,EXACT_DUPLICATE
+OS,2025,Practice-Assignment3.pdf,bff977d7e417ec454a5f2acb05508572fbe1d7953da0303e7dffb4d7292f06e9,OS/OS-B 2025/Labs/Practice-Assignment3.pdf,EXACT_DUPLICATE
+OS,2025,Practice-Assignment3.pdf,bff977d7e417ec454a5f2acb05508572fbe1d7953da0303e7dffb4d7292f06e9,OS/OS 2025/OS 2025 SecB/Labs/Practice-Assignment3.pdf,EXACT_DUPLICATE
+OS,2025,Practice-Assignment4.pdf,02ee3f8e16dd2cccbd68df82b0fc8ac27dc7b24c1fababed8f797e26b57efa18,OS/OS-B 2025/Labs/Practice-Assignment4.pdf,EXACT_DUPLICATE
+OS,2025,Practice-Assignment4.pdf,02ee3f8e16dd2cccbd68df82b0fc8ac27dc7b24c1fababed8f797e26b57efa18,OS/OS 2025/OS 2025 SecB/Labs/Practice-Assignment4.pdf,EXACT_DUPLICATE
+OS,2025,PracticeQuestion3.zip,da3997e39eabfb01c5fa1ed0d501413610bd144f5856a778a0f2df115f9c7c49,OS/OS-B 2025/Labs/PracticeQuestion3.zip,EXACT_DUPLICATE
+OS,2025,PracticeQuestion3.zip,da3997e39eabfb01c5fa1ed0d501413610bd144f5856a778a0f2df115f9c7c49,OS/OS 2025/OS 2025 SecB/Labs/PracticeQuestion3.zip,EXACT_DUPLICATE
+OS,2025,PracticeSolutions4.zip,a64eea29b995d457448884f02194dabd3c6a2ad5b6b0b9a047143b08ea559b84,OS/OS-B 2025/Labs/PracticeSolutions4.zip,EXACT_DUPLICATE
+OS,2025,PracticeSolutions4.zip,a64eea29b995d457448884f02194dabd3c6a2ad5b6b0b9a047143b08ea559b84,OS/OS 2025/OS 2025 SecB/Labs/PracticeSolutions4.zip,EXACT_DUPLICATE
+OS,2025,Quiz-2-rubric.pdf,bc1fda88c5e11f41e8b273e2778dacab7a573622cb8eaf4c10dfaecd3cd80b04,OS/OS (Sec B) 2025/Quiz-2-rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz-2-rubric.pdf,bc1fda88c5e11f41e8b273e2778dacab7a573622cb8eaf4c10dfaecd3cd80b04,OS/OS-B 2025/Quizzes/Quiz-2-rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz-2-rubric.pdf,bc1fda88c5e11f41e8b273e2778dacab7a573622cb8eaf4c10dfaecd3cd80b04,OS/OS 2025/OS 2025 SecB/Quiz-2-rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz-2-rubric.pdf,bc1fda88c5e11f41e8b273e2778dacab7a573622cb8eaf4c10dfaecd3cd80b04,OS/OS 2025/OS 2025 SecB/Quizzes/Quiz-2-rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz1_rubric_updated.pdf,7a0e05deea5b29a16c76b5d3f57b5fe23bf9425410c38b83dee6a770d1163b8c,OS/OS (Sec B) 2025/Quiz1_rubric_updated.pdf,EXACT_DUPLICATE
+OS,2025,Quiz1_rubric_updated.pdf,7a0e05deea5b29a16c76b5d3f57b5fe23bf9425410c38b83dee6a770d1163b8c,OS/OS-B 2025/Quizzes/Quiz1_rubric_updated.pdf,EXACT_DUPLICATE
+OS,2025,Quiz1_rubric_updated.pdf,7a0e05deea5b29a16c76b5d3f57b5fe23bf9425410c38b83dee6a770d1163b8c,OS/OS 2025/OS 2025 SecB/Quiz1_rubric_updated.pdf,EXACT_DUPLICATE
+OS,2025,Quiz1_rubric_updated.pdf,7a0e05deea5b29a16c76b5d3f57b5fe23bf9425410c38b83dee6a770d1163b8c,OS/OS 2025/OS 2025 SecB/Quizzes/Quiz1_rubric_updated.pdf,EXACT_DUPLICATE
+OS,2025,Quiz3-Rubric.pdf,b8f19990d73444ffe4edde4319e500e255de555d25b4dfadea39e3924d4e92a5,OS/OS (Sec B) 2025/Quiz3-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz3-Rubric.pdf,b8f19990d73444ffe4edde4319e500e255de555d25b4dfadea39e3924d4e92a5,OS/OS-B 2025/Quizzes/Quiz3-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz3-Rubric.pdf,b8f19990d73444ffe4edde4319e500e255de555d25b4dfadea39e3924d4e92a5,OS/OS 2025/OS 2025 SecB/Quiz3-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz3-Rubric.pdf,b8f19990d73444ffe4edde4319e500e255de555d25b4dfadea39e3924d4e92a5,OS/OS 2025/OS 2025 SecB/Quizzes/Quiz3-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz4-Rubric.pdf,20a033cd22c1601a7b14fee043b1a36dfc7c156b093dc5f34506be92bd7a873e,OS/OS (Sec B) 2025/Quiz4-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz4-Rubric.pdf,20a033cd22c1601a7b14fee043b1a36dfc7c156b093dc5f34506be92bd7a873e,OS/OS-B 2025/Quizzes/Quiz4-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz4-Rubric.pdf,20a033cd22c1601a7b14fee043b1a36dfc7c156b093dc5f34506be92bd7a873e,OS/OS 2025/OS 2025 SecB/Quiz4-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Quiz4-Rubric.pdf,20a033cd22c1601a7b14fee043b1a36dfc7c156b093dc5f34506be92bd7a873e,OS/OS 2025/OS 2025 SecB/Quizzes/Quiz4-Rubric.pdf,EXACT_DUPLICATE
+OS,2025,Tut9.pdf,4a9ec90e3d5237d91ae36bffd104237cebc756ed676d9af831d9374d47189576,OS/OS-B 2025/Tutorials/Tut9.pdf,EXACT_DUPLICATE
+OS,2025,Tut9.pdf,4a9ec90e3d5237d91ae36bffd104237cebc756ed676d9af831d9374d47189576,OS/OS 2025/OS 2025 SecB/Tutorials/Tut9.pdf,EXACT_DUPLICATE
+OS,2025,Tutorial 2.pdf,d0baacecaf2725d7965d0ac56940401e8c1769482a6e7a6e26451ea62e5145e5,OS/OS-A 2025/TUTORIALS/Tutorial 2.pdf,EXACT_DUPLICATE
+OS,2025,Tutorial 2.pdf,d0baacecaf2725d7965d0ac56940401e8c1769482a6e7a6e26451ea62e5145e5,OS/OS 2025/OS 2025 SecA/TUTORIALS/Tutorial 2.pdf,EXACT_DUPLICATE
+OS,2025,Tutorial 3 Command Line Tools.pdf,280e38aaddcea04a1fb79912f4452f569ed49007681e13ccf639801c953a4cc0,OS/OS-B 2025/Tutorials/Tutorial 3 Command Line Tools.pdf,EXACT_DUPLICATE
+OS,2025,Tutorial 3 Command Line Tools.pdf,280e38aaddcea04a1fb79912f4452f569ed49007681e13ccf639801c953a4cc0,OS/OS 2025/OS 2025 SecB/Tutorials/Tutorial 3 Command Line Tools.pdf,EXACT_DUPLICATE
+OS,2025,Tutorial11.pdf,47e80079060b272865c6d47ce32e452f5677c5dd16d1b37793b50727f72cc211,OS/OS-B 2025/Tutorials/Tutorial11.pdf,EXACT_DUPLICATE
+OS,2025,Tutorial11.pdf,47e80079060b272865c6d47ce32e452f5677c5dd16d1b37793b50727f72cc211,OS/OS 2025/OS 2025 SecB/Tutorials/Tutorial11.pdf,EXACT_DUPLICATE
+OS,2025,lec01_introduction.pdf,626aa6dd82b91ede4386d644338b9f272d909a737f844644c572dfc48a84f08b,OS/OS-A 2025/LECTURES/lec01_introduction.pdf,EXACT_DUPLICATE
+OS,2025,lec01_introduction.pdf,626aa6dd82b91ede4386d644338b9f272d909a737f844644c572dfc48a84f08b,OS/OS 2025/OS 2025 SecA/LECTURES/lec01_introduction.pdf,EXACT_DUPLICATE
+OS,2025,lec02_SrcToObj.pdf,1aea3dfc7f326f90669ab5863be57fd9fe0860507b77a6863870c4b8932c93c2,OS/OS-A 2025/LECTURES/lec02_SrcToObj.pdf,EXACT_DUPLICATE
+OS,2025,lec02_SrcToObj.pdf,1aea3dfc7f326f90669ab5863be57fd9fe0860507b77a6863870c4b8932c93c2,OS/OS 2025/OS 2025 SecA/LECTURES/lec02_SrcToObj.pdf,EXACT_DUPLICATE
+OS,2025,lec03_linker_loader.pdf,a06ab893bfc7234398a419a6fb74da9543829465aa4277e37a0e0dc1712a394f,OS/OS-A 2025/LECTURES/lec03_linker_loader.pdf,EXACT_DUPLICATE
+OS,2025,lec03_linker_loader.pdf,a06ab893bfc7234398a419a6fb74da9543829465aa4277e37a0e0dc1712a394f,OS/OS 2025/OS 2025 SecA/LECTURES/lec03_linker_loader.pdf,EXACT_DUPLICATE
+OS,2025,lec04_stack.pdf,24407be7203521ed078ba529b4ca86f7624bd27b7a1a869c5d0074728be5fbc3,OS/OS-A 2025/LECTURES/lec04_stack.pdf,EXACT_DUPLICATE
+OS,2025,lec04_stack.pdf,24407be7203521ed078ba529b4ca86f7624bd27b7a1a869c5d0074728be5fbc3,OS/OS 2025/OS 2025 SecA/LECTURES/lec04_stack.pdf,EXACT_DUPLICATE
+OS,2025,lec05_process.pdf,8249a48b9fad42b8a6e3f19f4b85daa37ec0b98a5c1eef9fcc96f5329c017d94,OS/OS-A 2025/LECTURES/lec05_process.pdf,EXACT_DUPLICATE
+OS,2025,lec05_process.pdf,8249a48b9fad42b8a6e3f19f4b85daa37ec0b98a5c1eef9fcc96f5329c017d94,OS/OS 2025/OS 2025 SecA/LECTURES/lec05_process.pdf,EXACT_DUPLICATE
+OS,2025,lec06_interrupts.pdf,8394f89c34b3463e554e4f49e8d313f15b4aa27231945972d75bf6f4db48bf79,OS/OS-A 2025/LECTURES/lec06_interrupts.pdf,EXACT_DUPLICATE
+OS,2025,lec06_interrupts.pdf,8394f89c34b3463e554e4f49e8d313f15b4aa27231945972d75bf6f4db48bf79,OS/OS 2025/OS 2025 SecA/LECTURES/lec06_interrupts.pdf,EXACT_DUPLICATE
+OS,2025,lec07_forkexec.pdf,5cfded014d822cab879b6dd19fee916483469c645612c7e95e58d6086d80e15a,OS/OS-A 2025/LECTURES/lec07_forkexec.pdf,EXACT_DUPLICATE
+OS,2025,lec07_forkexec.pdf,5cfded014d822cab879b6dd19fee916483469c645612c7e95e58d6086d80e15a,OS/OS 2025/OS 2025 SecA/LECTURES/lec07_forkexec.pdf,EXACT_DUPLICATE
+OS,2025,lec08_shared_memory_ipc.pdf,4d9d93252c3e4a1c961a864025cc95d293a57961bf33cfd6beea8af5f6e55300,OS/OS-A 2025/LECTURES/lec08_shared_memory_ipc.pdf,EXACT_DUPLICATE
+OS,2025,lec08_shared_memory_ipc.pdf,4d9d93252c3e4a1c961a864025cc95d293a57961bf33cfd6beea8af5f6e55300,OS/OS 2025/OS 2025 SecA/LECTURES/lec08_shared_memory_ipc.pdf,EXACT_DUPLICATE
+OS,2025,lec09_semaphores.pdf,7b3ff34454ae53a4d8b313bd8a6150385e4d9b5fcf0db47d04ff3dd147459c94,OS/OS-A 2025/LECTURES/lec09_semaphores.pdf,EXACT_DUPLICATE
+OS,2025,lec09_semaphores.pdf,7b3ff34454ae53a4d8b313bd8a6150385e4d9b5fcf0db47d04ff3dd147459c94,OS/OS 2025/OS 2025 SecA/LECTURES/lec09_semaphores.pdf,EXACT_DUPLICATE
+OS,2025,lec10_mpi.pdf,71bf35a19bc87887a08b07f21e51e3240202e849cc7cfa695da37e3eb9e65861,OS/OS-A 2025/LECTURES/lec10_mpi.pdf,EXACT_DUPLICATE
+OS,2025,lec10_mpi.pdf,71bf35a19bc87887a08b07f21e51e3240202e849cc7cfa695da37e3eb9e65861,OS/OS 2025/OS 2025 SecA/LECTURES/lec10_mpi.pdf,EXACT_DUPLICATE
+OS,2025,lec11_midreview.pdf,cc92dd92964922d064a0f23b2e843e7448a23a72060d009b10dcea10b18e1a28,OS/OS-A 2025/LECTURES/lec11_midreview.pdf,EXACT_DUPLICATE
+OS,2025,lec11_midreview.pdf,cc92dd92964922d064a0f23b2e843e7448a23a72060d009b10dcea10b18e1a28,OS/OS 2025/OS 2025 SecA/LECTURES/lec11_midreview.pdf,EXACT_DUPLICATE
+OS,2025,lec12_scheduling_p1.pdf,3becbc009decb4bbed34babcffbfa8be6f9c8ab5aa6b1991bf1852e94187ff71,OS/OS-A 2025/LECTURES/lec12_scheduling_p1.pdf,EXACT_DUPLICATE
+OS,2025,lec12_scheduling_p1.pdf,3becbc009decb4bbed34babcffbfa8be6f9c8ab5aa6b1991bf1852e94187ff71,OS/OS 2025/OS 2025 SecA/LECTURES/lec12_scheduling_p1.pdf,EXACT_DUPLICATE
+OS,2025,lec13_scheduling_p2.pdf,e03e2f0bcc36502e288c7e4f9cdb7486d80cee7c76ffa0889b86f06a5f5f53d8,OS/OS-A 2025/LECTURES/lec13_scheduling_p2.pdf,EXACT_DUPLICATE
+OS,2025,lec13_scheduling_p2.pdf,e03e2f0bcc36502e288c7e4f9cdb7486d80cee7c76ffa0889b86f06a5f5f53d8,OS/OS 2025/OS 2025 SecA/LECTURES/lec13_scheduling_p2.pdf,EXACT_DUPLICATE
+OS,2025,lec14_memory_mgmt.pdf,a0fd7f0f686b7655b820b0d4e29734bbb7b935636ea4d1d3c4da92f5882ed0d2,OS/OS-A 2025/LECTURES/lec14_memory_mgmt.pdf,EXACT_DUPLICATE
+OS,2025,lec14_memory_mgmt.pdf,a0fd7f0f686b7655b820b0d4e29734bbb7b935636ea4d1d3c4da92f5882ed0d2,OS/OS 2025/OS 2025 SecA/LECTURES/lec14_memory_mgmt.pdf,EXACT_DUPLICATE
+OS,2025,lec15_vm.pdf,a7033fa1e49ee678b5b70223895d2a97187cce2bd8de7fd0e597585064add2c1,OS/OS-A 2025/LECTURES/lec15_vm.pdf,EXACT_DUPLICATE
+OS,2025,lec15_vm.pdf,a7033fa1e49ee678b5b70223895d2a97187cce2bd8de7fd0e597585064add2c1,OS/OS 2025/OS 2025 SecA/LECTURES/lec15_vm.pdf,EXACT_DUPLICATE
+OS,2025,lec16_segmentation.pdf,8f5a6adfea87f3575cc0cd075f194a385f12b03a0c3f53cf943c59d87cd3f3d3,OS/OS-A 2025/LECTURES/lec16_segmentation.pdf,EXACT_DUPLICATE
+OS,2025,lec16_segmentation.pdf,8f5a6adfea87f3575cc0cd075f194a385f12b03a0c3f53cf943c59d87cd3f3d3,OS/OS 2025/OS 2025 SecA/LECTURES/lec16_segmentation.pdf,EXACT_DUPLICATE
+OS,2025,lec17_paging.pdf,e387a0d9e6b52233a85ac892b8d895dd8b0bf16c0aaa349b5d3b9da42030ca2a,OS/OS-A 2025/LECTURES/lec17_paging.pdf,EXACT_DUPLICATE
+OS,2025,lec17_paging.pdf,e387a0d9e6b52233a85ac892b8d895dd8b0bf16c0aaa349b5d3b9da42030ca2a,OS/OS 2025/OS 2025 SecA/LECTURES/lec17_paging.pdf,EXACT_DUPLICATE
+OS,2025,lec18_tlb.pdf,d3da857bd7f1cf12a20cae0966fa83f6f9848b0943e19c537449ad3820797969,OS/OS-A 2025/LECTURES/lec18_tlb.pdf,EXACT_DUPLICATE
+OS,2025,lec18_tlb.pdf,d3da857bd7f1cf12a20cae0966fa83f6f9848b0943e19c537449ad3820797969,OS/OS 2025/OS 2025 SecA/LECTURES/lec18_tlb.pdf,EXACT_DUPLICATE
+OS,2025,lec19_multileveltables.pdf,0ad864b59498d35c69f16647a176523a84c12ce9c4b980164e1753e02f6e366b,OS/OS-A 2025/LECTURES/lec19_multileveltables.pdf,EXACT_DUPLICATE
+OS,2025,lec19_multileveltables.pdf,0ad864b59498d35c69f16647a176523a84c12ce9c4b980164e1753e02f6e366b,OS/OS 2025/OS 2025 SecA/LECTURES/lec19_multileveltables.pdf,EXACT_DUPLICATE
+OS,2025,lec20_demandpaging.pdf,6dbf3ddca29cddedc48e3b54124cf6758e2f08385b1a0dfe7818f8ac85642bcb,OS/OS-A 2025/LECTURES/lec20_demandpaging.pdf,EXACT_DUPLICATE
+OS,2025,lec20_demandpaging.pdf,6dbf3ddca29cddedc48e3b54124cf6758e2f08385b1a0dfe7818f8ac85642bcb,OS/OS 2025/OS 2025 SecA/LECTURES/lec20_demandpaging.pdf,EXACT_DUPLICATE
+OS,2025,lec21_multithreading.pdf,e46cc8639b1e499aff1bfcc8405b14d2104d091e4061403a7999a422674b355d,OS/OS-A 2025/LECTURES/lec21_multithreading.pdf,EXACT_DUPLICATE
+OS,2025,lec21_multithreading.pdf,e46cc8639b1e499aff1bfcc8405b14d2104d091e4061403a7999a422674b355d,OS/OS 2025/OS 2025 SecA/LECTURES/lec21_multithreading.pdf,EXACT_DUPLICATE
+OS,2025,midsem_rubric.pdf,2566527827b2e600615f3842d823fb1d6dfd11bcf67cbd6dedbb4d109d1ba18c,OS/OS (Sec B) 2025/midsem_rubric.pdf,EXACT_DUPLICATE
+OS,2025,midsem_rubric.pdf,2566527827b2e600615f3842d823fb1d6dfd11bcf67cbd6dedbb4d109d1ba18c,OS/OS-B 2025/midsem_rubric.pdf,EXACT_DUPLICATE
+OS,2025,midsem_rubric.pdf,2566527827b2e600615f3842d823fb1d6dfd11bcf67cbd6dedbb4d109d1ba18c,OS/OS 2025/OS 2025 SecB/midsem_rubric.pdf,EXACT_DUPLICATE
+OS,2025,named-pipe-creator.c,5d1501fc6ee8d2a4bcb629eac9a667b49cff95d529466ff3ab6c5c49aa8c892d,OS/OS-B 2025/Labs/named-pipe-creator.c,EXACT_DUPLICATE
+OS,2025,named-pipe-creator.c,5d1501fc6ee8d2a4bcb629eac9a667b49cff95d529466ff3ab6c5c49aa8c892d,OS/OS 2025/OS 2025 SecB/Labs/named-pipe-creator.c,EXACT_DUPLICATE
+OS,2025,named-pipe-receiver.c,61f2b760c1cbac2abbddfa2fb61fa5412223ad5581d0c5632a6bf6d257d3b9da,OS/OS-B 2025/Labs/named-pipe-receiver.c,EXACT_DUPLICATE
+OS,2025,named-pipe-receiver.c,61f2b760c1cbac2abbddfa2fb61fa5412223ad5581d0c5632a6bf6d257d3b9da,OS/OS 2025/OS 2025 SecB/Labs/named-pipe-receiver.c,EXACT_DUPLICATE
+OS,2025,named-pipe-sender.c,6d7ec0522cb39123ffb869d04702d582afdaab7aaf9271a90389c92920fbf069,OS/OS-B 2025/Labs/named-pipe-sender.c,EXACT_DUPLICATE
+OS,2025,named-pipe-sender.c,6d7ec0522cb39123ffb869d04702d582afdaab7aaf9271a90389c92920fbf069,OS/OS 2025/OS 2025 SecB/Labs/named-pipe-sender.c,EXACT_DUPLICATE
+OS,2025,practice question2_solutions.pdf,8e3b226b8296efe1d0e23ec58d0814f9bd7616def744cb26d863abd1ecbe5090,OS/OS-B 2025/Labs/practice question2_solutions.pdf,EXACT_DUPLICATE
+OS,2025,practice question2_solutions.pdf,8e3b226b8296efe1d0e23ec58d0814f9bd7616def744cb26d863abd1ecbe5090,OS/OS 2025/OS 2025 SecB/Labs/practice question2_solutions.pdf,EXACT_DUPLICATE
+OS,2025,practice questions_lab 1.pdf,1a84e23e152220b497f0a704589b852f5bf81825c9f1f476d552be4cdc5de903,OS/OS-B 2025/Labs/practice questions_lab 1.pdf,EXACT_DUPLICATE
+OS,2025,practice questions_lab 1.pdf,1a84e23e152220b497f0a704589b852f5bf81825c9f1f476d552be4cdc5de903,OS/OS 2025/OS 2025 SecB/Labs/practice questions_lab 1.pdf,EXACT_DUPLICATE
+OS,2025,practice-quiz-1.pdf,16b5e935418fb228e19cf3c77b7bca7dd812f2252bea8fac0dfc854190b32d37,OS/OS-A 2025/QUIZZES/practice-quiz-1.pdf,EXACT_DUPLICATE
+OS,2025,practice-quiz-1.pdf,16b5e935418fb228e19cf3c77b7bca7dd812f2252bea8fac0dfc854190b32d37,OS/OS 2025/OS 2025 SecA/QUIZZES/practice-quiz-1.pdf,EXACT_DUPLICATE
+OS,2025,practice-quiz-2.pdf,042b893fdc75349bc486095a346f74846f82dca2842aa837fb731c056ecf715c,OS/OS-A 2025/QUIZZES/practice-quiz-2.pdf,EXACT_DUPLICATE
+OS,2025,practice-quiz-2.pdf,042b893fdc75349bc486095a346f74846f82dca2842aa837fb731c056ecf715c,OS/OS 2025/OS 2025 SecA/QUIZZES/practice-quiz-2.pdf,EXACT_DUPLICATE
+OS,2025,quiz-3-practice.pdf,e48ae21dd7e34ac48cd4323affbd7de49242daa9a440d3c5f960e239f371e1df,OS/OS-A 2025/QUIZZES/quiz-3-practice.pdf,EXACT_DUPLICATE
+OS,2025,quiz-3-practice.pdf,e48ae21dd7e34ac48cd4323affbd7de49242daa9a440d3c5f960e239f371e1df,OS/OS 2025/OS 2025 SecA/QUIZZES/quiz-3-practice.pdf,EXACT_DUPLICATE
+OS,2025,quiz-4-2.pdf,7fcd2fb5edaba820f74bb2281127cb814942d4582c00e9d1f506b333cc67edfb,OS/OS-A 2025/QUIZZES/quiz-4-2.pdf,EXACT_DUPLICATE
+OS,2025,quiz-4-2.pdf,7fcd2fb5edaba820f74bb2281127cb814942d4582c00e9d1f506b333cc67edfb,OS/OS 2025/OS 2025 SecA/QUIZZES/quiz-4-2.pdf,EXACT_DUPLICATE
+OS,2025,quiz-5.pdf,353758f3c4c28c77fbdad02c53e5483821048377c1215effcca01e6b27e06a82,OS/OS-A 2025/QUIZZES/quiz-5.pdf,EXACT_DUPLICATE
+OS,2025,quiz-5.pdf,353758f3c4c28c77fbdad02c53e5483821048377c1215effcca01e6b27e06a82,OS/OS 2025/OS 2025 SecA/QUIZZES/quiz-5.pdf,EXACT_DUPLICATE
+OS,2025,round_robin_tut.c,2ad198f88025f6268371df72a6cce309a2e7b45de28924a5f75038b6d18328c2,OS/OS-A 2025/TUTORIALS/round_robin_tut.c,EXACT_DUPLICATE
+OS,2025,round_robin_tut.c,2ad198f88025f6268371df72a6cce309a2e7b45de28924a5f75038b6d18328c2,OS/OS 2025/OS 2025 SecA/TUTORIALS/round_robin_tut.c,EXACT_DUPLICATE
+OS,2025,rubrics-quiz-1.pdf,3847f19b758b1945cda2f98183d92eea110121a02068bfc78573f96b66387323,OS/OS-A 2025/QUIZZES/rubrics-quiz-1.pdf,EXACT_DUPLICATE
+OS,2025,rubrics-quiz-1.pdf,3847f19b758b1945cda2f98183d92eea110121a02068bfc78573f96b66387323,OS/OS 2025/OS 2025 SecA/QUIZZES/rubrics-quiz-1.pdf,EXACT_DUPLICATE
+OS,2025,rubrics-quiz-2.pdf,4a251a70e75a6689b0df9063c7c285cac71b6b54338d45d8ea3c0415fa975122,OS/OS-A 2025/QUIZZES/rubrics-quiz-2.pdf,EXACT_DUPLICATE
+OS,2025,rubrics-quiz-2.pdf,4a251a70e75a6689b0df9063c7c285cac71b6b54338d45d8ea3c0415fa975122,OS/OS 2025/OS 2025 SecA/QUIZZES/rubrics-quiz-2.pdf,EXACT_DUPLICATE
+OS,2025,rubrics-quiz-3.pdf,3f7d45c1dd773c44be0fb0ee7a9fca2626edabe332d3d049425fc975329e73c8,OS/OS-A 2025/QUIZZES/rubrics-quiz-3.pdf,EXACT_DUPLICATE
+OS,2025,rubrics-quiz-3.pdf,3f7d45c1dd773c44be0fb0ee7a9fca2626edabe332d3d049425fc975329e73c8,OS/OS 2025/OS 2025 SecA/QUIZZES/rubrics-quiz-3.pdf,EXACT_DUPLICATE
+OS,2025,sched_setscheduler.c,b9de3b2775c5871721055c3457ed79198f6cebc4b0a06be9e6f909de2b260c55,OS/OS-B 2025/Labs/sched_setscheduler.c,EXACT_DUPLICATE
+OS,2025,sched_setscheduler.c,b9de3b2775c5871721055c3457ed79198f6cebc4b0a06be9e6f909de2b260c55,OS/OS 2025/OS 2025 SecB/Labs/sched_setscheduler.c,EXACT_DUPLICATE
+OS,2025,shortest_time_of_completion_tut.c,2b4296220792f03d06f9a6f17429409fe829357062f6fc8e4a502aa079055e5a,OS/OS-A 2025/TUTORIALS/shortest_time_of_completion_tut.c,EXACT_DUPLICATE
+OS,2025,shortest_time_of_completion_tut.c,2b4296220792f03d06f9a6f17429409fe829357062f6fc8e4a502aa079055e5a,OS/OS 2025/OS 2025 SecA/TUTORIALS/shortest_time_of_completion_tut.c,EXACT_DUPLICATE
+OS,2025,signal-receiver.c,858efc225dbade87323c639ad878b7f2d52c71131bd71628215f9c6b6ea4cf9b,OS/OS-B 2025/Labs/signal-receiver.c,EXACT_DUPLICATE
+OS,2025,signal-receiver.c,858efc225dbade87323c639ad878b7f2d52c71131bd71628215f9c6b6ea4cf9b,OS/OS 2025/OS 2025 SecB/Labs/signal-receiver.c,EXACT_DUPLICATE
+OS,2025,signal-sender.c,3d684c746881eb9de1c3cb421d39889442307bad5c22a4fd49bce3314ac20cb0,OS/OS-B 2025/Labs/signal-sender.c,EXACT_DUPLICATE
+OS,2025,signal-sender.c,3d684c746881eb9de1c3cb421d39889442307bad5c22a4fd49bce3314ac20cb0,OS/OS 2025/OS 2025 SecB/Labs/signal-sender.c,EXACT_DUPLICATE
+OS,2025,simple-pipe.c,be7e2e13f65693016df4bfdb7286aa509e6977f0e5f90f8db3f78fe9daa910c5,OS/OS-B 2025/Labs/simple-pipe.c,EXACT_DUPLICATE
+OS,2025,simple-pipe.c,be7e2e13f65693016df4bfdb7286aa509e6977f0e5f90f8db3f78fe9daa910c5,OS/OS 2025/OS 2025 SecB/Labs/simple-pipe.c,EXACT_DUPLICATE
+OS,2025,tut 6.pdf,31f6dd45b22ca980bf934c01348154af46d10419cee83698ff05db8354790e31,OS/OS-B 2025/Tutorials/tut 6.pdf,EXACT_DUPLICATE
+OS,2025,tut 6.pdf,31f6dd45b22ca980bf934c01348154af46d10419cee83698ff05db8354790e31,OS/OS 2025/OS 2025 SecB/Tutorials/tut 6.pdf,EXACT_DUPLICATE
+OS,2025,tut10.pdf,6444680f13c3cff0a49bc8c543536e2ef106a1264a6a67f2ffda525526359ffc,OS/OS-B 2025/Tutorials/tut10.pdf,EXACT_DUPLICATE
+OS,2025,tut10.pdf,6444680f13c3cff0a49bc8c543536e2ef106a1264a6a67f2ffda525526359ffc,OS/OS 2025/OS 2025 SecB/Tutorials/tut10.pdf,EXACT_DUPLICATE
+OS,2025,tut12.pdf,63d0455a295965d4133754379ffd781d275ff232ff14f6b015b86567e30a2ec6,OS/OS-B 2025/Tutorials/tut12.pdf,EXACT_DUPLICATE
+OS,2025,tut12.pdf,63d0455a295965d4133754379ffd781d275ff232ff14f6b015b86567e30a2ec6,OS/OS 2025/OS 2025 SecB/Tutorials/tut12.pdf,EXACT_DUPLICATE
+OS,2025,tut4.pptx,b283502eedc3a705ead1469ea2b9b717223b4d4eddee92580f7fb56e807c0cf6,OS/OS-B 2025/Tutorials/tut4.pptx,EXACT_DUPLICATE
+OS,2025,tut4.pptx,b283502eedc3a705ead1469ea2b9b717223b4d4eddee92580f7fb56e807c0cf6,OS/OS 2025/OS 2025 SecB/Tutorials/tut4.pptx,EXACT_DUPLICATE
+OS,2025,tut5.pdf,88f7fd9738308a80b7fb850a3ba23d06772b6ff6356352b21ad415037d87c719,OS/OS-B 2025/Tutorials/tut5.pdf,EXACT_DUPLICATE
+OS,2025,tut5.pdf,88f7fd9738308a80b7fb850a3ba23d06772b6ff6356352b21ad415037d87c719,OS/OS 2025/OS 2025 SecB/Tutorials/tut5.pdf,EXACT_DUPLICATE
+OS,2025,tut7.pdf,8e7a9fb1fda8a3568d7045304a61307f2a1e4cd9d45114b078490924bfde25fb,OS/OS-B 2025/Tutorials/tut7.pdf,EXACT_DUPLICATE
+OS,2025,tut7.pdf,8e7a9fb1fda8a3568d7045304a61307f2a1e4cd9d45114b078490924bfde25fb,OS/OS 2025/OS 2025 SecB/Tutorials/tut7.pdf,EXACT_DUPLICATE
+OS,2025,tut8.pdf,8a6e9e1fe3932af24f652fce7b81ec4d6e0676f381e4575e34c2bab5159c95b2,OS/OS-B 2025/Tutorials/tut8.pdf,EXACT_DUPLICATE
+OS,2025,tut8.pdf,8a6e9e1fe3932af24f652fce7b81ec4d6e0676f381e4575e34c2bab5159c95b2,OS/OS 2025/OS 2025 SecB/Tutorials/tut8.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-1.pdf,c592ef5ec51be83d6127fac785ccf5d4a17cf8a06b6bd5d2df2a680ca61b78f7,OS/OS-A 2025/TUTORIALS/tutorial-1.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-1.pdf,c592ef5ec51be83d6127fac785ccf5d4a17cf8a06b6bd5d2df2a680ca61b78f7,OS/OS 2025/OS 2025 SecA/TUTORIALS/tutorial-1.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-3.pdf,68ba9bbf4b70cab452b33c4f16266dd501f27942abe9c913e1dd58cb0c3b3536,OS/OS-A 2025/TUTORIALS/tutorial-3.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-3.pdf,68ba9bbf4b70cab452b33c4f16266dd501f27942abe9c913e1dd58cb0c3b3536,OS/OS 2025/OS 2025 SecA/TUTORIALS/tutorial-3.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-4-fork-q3.pdf,a09d7bb21e7e3308a6ac304a853707652dd53d3d66bd23f737cadd65da5dd405,OS/OS-A 2025/TUTORIALS/tutorial-4-fork-q3.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-4-fork-q3.pdf,a09d7bb21e7e3308a6ac304a853707652dd53d3d66bd23f737cadd65da5dd405,OS/OS 2025/OS 2025 SecA/TUTORIALS/tutorial-4-fork-q3.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-4.pdf,c50d87f6160e70bf68dadea97a6aa5525ace6a8bb57e0857a947fd428377027d,OS/OS-A 2025/TUTORIALS/tutorial-4.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-4.pdf,c50d87f6160e70bf68dadea97a6aa5525ace6a8bb57e0857a947fd428377027d,OS/OS 2025/OS 2025 SecA/TUTORIALS/tutorial-4.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-5.pdf,3b6087bf4e5989a2d9ff589a104f433216a27c57ec8171d4b554a1096e5e9d2b,OS/OS-A 2025/TUTORIALS/tutorial-5.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-5.pdf,3b6087bf4e5989a2d9ff589a104f433216a27c57ec8171d4b554a1096e5e9d2b,OS/OS 2025/OS 2025 SecA/TUTORIALS/tutorial-5.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-6.pdf,49c8963b053b199ab1d24657f0d356279262b5baa9c9efa6456b5c288d2ce2b9,OS/OS-A 2025/TUTORIALS/tutorial-6.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-6.pdf,49c8963b053b199ab1d24657f0d356279262b5baa9c9efa6456b5c288d2ce2b9,OS/OS 2025/OS 2025 SecA/TUTORIALS/tutorial-6.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-7.pdf,91c744279c6e1fd00c7ddefcb7a0186f23ec66ae15c35284c2ef62d8406160f0,OS/OS-A 2025/TUTORIALS/tutorial-7.pdf,EXACT_DUPLICATE
+OS,2025,tutorial-7.pdf,91c744279c6e1fd00c7ddefcb7a0186f23ec66ae15c35284c2ef62d8406160f0,OS/OS 2025/OS 2025 SecA/TUTORIALS/tutorial-7.pdf,EXACT_DUPLICATE
+PNS,2025,EndsemRubric.pdf,dfc258ae5a28b9598cc11911b9b59d3ae00ec8026fe7837ef31f9f836468ec89,PNS/PNS (Sec B) 2025/EndsemRubric.pdf,EXACT_DUPLICATE
+PNS,2025,EndsemRubric.pdf,dfc258ae5a28b9598cc11911b9b59d3ae00ec8026fe7837ef31f9f836468ec89,PNS/PNS-B 2025/Exams/EndsemRubric.pdf,EXACT_DUPLICATE
+PNS,2025,MidsemRubric-1.pdf,5ce51ef9999cad4373c40a1f568bc1269b7bcc44521cc0ad38020f125b512c66,PNS/PNS (Sec B) 2025/MidsemRubric-1.pdf,EXACT_DUPLICATE
+PNS,2025,MidsemRubric-1.pdf,5ce51ef9999cad4373c40a1f568bc1269b7bcc44521cc0ad38020f125b512c66,PNS/PNS-B 2025/Exams/MidsemRubric-1.pdf,EXACT_DUPLICATE
+PNS,2025,Quiz1 2025 Rubric.pdf,4895e75f48bbc71133de8bc4a6412f56efa432c52678edcb01e77298f5e5e984,PNS/PNS (Sec B) 2025/Quiz1 2025 Rubric.pdf,SAME_NAME_DIFFERENT_CONTENT
+PNS,2025,Quiz1 2025 Rubric.pdf,743ca56d78187f07066332ae0b8d1701c8c886cddf39201c98a824cf4405d4f4,PNS/PNS-B 2025/Quizes/Quiz1 2025 Rubric.pdf,SAME_NAME_DIFFERENT_CONTENT
+PNS,2025,Quiz2Rubric.pdf,be0766e1c8df1f95f78900fb4cc18db9fa8a720c585be0b8344cd462bab6d078,PNS/PNS (Sec B) 2025/Quiz2Rubric.pdf,EXACT_DUPLICATE
+PNS,2025,Quiz2Rubric.pdf,be0766e1c8df1f95f78900fb4cc18db9fa8a720c585be0b8344cd462bab6d078,PNS/PNS-B 2025/Quizes/Quiz2Rubric.pdf,EXACT_DUPLICATE
+PNS,2025,Quiz3Rubric.pdf,ecd745057630df5a994e2ef6767f5d0ce343a490cdfeb8aa3ace1e63a7aa6061,PNS/PNS (Sec B) 2025/Quiz3Rubric.pdf,EXACT_DUPLICATE
+PNS,2025,Quiz3Rubric.pdf,ecd745057630df5a994e2ef6767f5d0ce343a490cdfeb8aa3ace1e63a7aa6061,PNS/PNS-B 2025/Quizes/Quiz3Rubric.pdf,EXACT_DUPLICATE
