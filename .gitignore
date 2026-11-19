@@ -1,0 +1,9 @@
+# CMake generated build output
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Temporary cleanup reports
+reports/*.txt

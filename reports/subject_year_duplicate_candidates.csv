@@ -1,0 +1,228 @@
+Subject,Year,Filename,SHA256,File path,Duplicate status
+CG,2023,CMakeLists.txt,8d3a26c7f122694b31d84d4cb98e228ba631110bedec4896dae01586a11a5dc8,CG/CG 2023/Labs/lab06 - Texture Mapping/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,7ab35c1722b861661d1005e9a3de29f0cb5698148e79001d6bf34bcced1acf02,CG/CG 2023/Labs/lab02/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,887460e603358dd63d4ff6da6f93976494a6f812818e1970bacd318a0b637620,CG/CG 2023/Labs/lab07 - Normal Mapping/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,57506e292ab420f75b33e7bcecf21105ce48148432f2c86eddec2269df95c262,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,01ba1fea476d88aa8403d979adea9595a57873d4637704946bf8c8eafd045188,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,e8956fa8b9bc820a49363edeec68e0227bc2433036919cd0879cf973aeff5e05,CG/CG 2023/Labs/lab08 - Environment Mapping/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,55698da15cda5bd3e7bb4cf0eb0f16988b59daf408552b4c015c2e509f6ab0f6,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,e9c1adb93467ab0d33f0679c5e8c8f3a9e50d273251d5969912d64f19bd4940c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,CMakeLists.txt,e733fad659b410b2b9efb347b327ad629bc0d3ca24b94f25c9a205e87dead0b2,CG/CG 2023/Labs/lab0/code/CMakeLists.txt,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,821e6de00263325cc0d5cff689c4225f5a3da135fb5015087b68d522153f1738,CG/CG 2023/Labs/lab02/code/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,a5cfae2b1696a6f3ba2594e1bbfc43ab23ea6eba8de7453eb784428194401c5a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Makefile,c114423878d66fe73d1f780140b54f2f2aba26933646827f43fc11a179f871cf,CG/CG 2023/Labs/lab0/code/Makefile,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,6ad808a893dbc96363f6767d7f0a9208e1fcba9c036e6c3b195934ed35dd6342,CG/CG 2023/Labs/lab08 - Environment Mapping/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,263d421667b5aba69fd2cef2eb6afd76705964eccea7ea59725f32343da0232d,CG/CG 2023/Labs/lab05 - Implementing Shaders/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,41ede5d39a785bb8a0d175d5aaa1b75eeff5ac222cee48d9af60420b75dfa736,CG/CG 2023/Labs/lab07 - Normal Mapping/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,c2efaf0912c1acebaf5863743d8ed1d2da3b753b15e29fb74e4f9425a7ca9b94,CG/CG 2023/Labs/lab06 - Texture Mapping/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,2f9823c3e1500f6a74ed9bc0fd8752d2d7da4d64b60ce88c8cfedfad029db77f,CG/CG 2023/Assignments/Assignment02/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,bdf7b12fa44a31f6e9f3ff5428852eb754a31985cb4450b5a3903e172f5a1f33,CG/CG 2023/Assignments/Assignment03/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,5c410c1dc765813032ed73c111c457ad6717531152e3f29903025380944598ee,CG/CG 2023/Assignments/Assignment04/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,Problem Statement.pdf,524d834bd72a6b58b57d0c0956547a7d37d776211f308a06c7617510f075409b,CG/CG 2023/Assignments/Assignment01/Problem Statement.pdf,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab06 - Texture Mapping/code/build.sh,EXACT_DUPLICATE
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab02/code/build.sh,EXACT_DUPLICATE
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab07 - Normal Mapping/code/build.sh,EXACT_DUPLICATE
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/build.sh,EXACT_DUPLICATE
+CG,2023,build.sh,944d64c68d25a9a249227aff8b5ccfb624003f31be34193b1b59526bc4783f15,CG/CG 2023/Labs/lab08 - Environment Mapping/code/build.sh,EXACT_DUPLICATE
+CG,2023,bunny.obj,bb49ba46b4fab4b5f8f43b948698d6f5390806dc3f21708fecf78fff91e6e68c,CG/CG 2023/Labs/lab07 - Normal Mapping/code/src/bunny.obj,EXACT_DUPLICATE
+CG,2023,bunny.obj,bb49ba46b4fab4b5f8f43b948698d6f5390806dc3f21708fecf78fff91e6e68c,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/src/bunny.obj,EXACT_DUPLICATE
+CG,2023,color_space.hpp,c6f321b9d904e7824d69f559dfb8f369d5d510329299c45f72ae4b6ef2fac9ef,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/color_space.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,color_space.hpp,4ffbf3e00a39226fa25e9eb55cb56ca36539a1e620962441c2eea4a1f21debfd,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/color_space.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,color_space.inl,85a27af8807abc69234917e6eb067bbd94bb1d2a562d5137600fd0426e373e47,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/color_space.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,color_space.inl,26bfa1782cbc574434f5bb58a8ab2e23b04a68d20e0958b9e34226b7973040e0,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/color_space.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,common.hpp,f3512ae64c0991372daad9cff5a761a97b8d3a1a82fa3132aa3f501661e51fd1,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/common.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,common.hpp,082bfbebe7ee8971b1f9652c3a5553aa42bb5fc2cf1b9acfe2a2a0d070c332e5,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/common.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,fshader.fs,e8e5790542dd3c5c8a48970170213a01ed370674f0addd7c10330d570707b20d,CG/CG 2023/Labs/lab02/code/shaders/fshader.fs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,fshader.fs,4e2e8848662483541144847f36f541c459d906059b1c6ae2d81f7448a22bec47,CG/CG 2023/Labs/lab07 - Normal Mapping/code/shaders/fshader.fs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,fshader.fs,6b3a393ac782361bfda2afa4d73cc565dce308b95c47b6ffebe5af828ba6b9ba,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/shaders/fshader.fs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,fshader.fs,db905536872dacb47ce91ac25b189501c8ce099f77e3dbaed921f3d4662ef5f0,CG/CG 2023/Labs/lab0/code/shaders/fshader.fs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,glfw3.lib,2e00d21cfb87d1a390d8e31237b1cc7dd6aeb00ff7eaade82640412496259b9c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glfw/lib-vc2010-32/glfw3.lib,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,glfw3.lib,aa4f5523a503e1c2aee397f9c252cb78d1c5c85be39e325d5723bd8969152e7b,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glfw/lib-vc2010-64/glfw3.lib,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab02/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imconfig.h,c4b4fa924a7a720684b47bda75fd321f27baa655d296296ab2b729b55a7a1648,CG/CG 2023/Labs/lab0/code/depends/imgui/imconfig.h,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.cpp,f3125b18b38c82be66af5e2f44568adad96292798656d6509fa2f8ec15ad5bd2,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui.cpp,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.h,46720283e8e86a0315230c4edc5e72a634ae20c7113bfe33b8ead84f28a49234,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui.h,EXACT_DUPLICATE
+CG,2023,imgui.ini,07f42c9fac95a5774dc0487293ad4a7d2cc898027650474e15622f1ae3e046cc,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,eaa21557fb28af2c45bcc8abce7e49ae179c35933d0e712439613b1e9eb7bb2f,CG/CG 2023/Labs/lab02/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,07f42c9fac95a5774dc0487293ad4a7d2cc898027650474e15622f1ae3e046cc,CG/CG 2023/Labs/lab07 - Normal Mapping/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,99430006ac3a5d88ccebc1a5f42c99cc94638d9f75b4969715837761e6d9b4e5,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,07f42c9fac95a5774dc0487293ad4a7d2cc898027650474e15622f1ae3e046cc,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,07f42c9fac95a5774dc0487293ad4a7d2cc898027650474e15622f1ae3e046cc,CG/CG 2023/Labs/lab08 - Environment Mapping/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,a9d4776f8a185d4f7f0408cb9eb5fe5a6da9364208161751ea6a8a7a2086f564,CG/CG 2023/Labs/lab0/code/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui.ini,4f995e29ce19ac245afc36ad728baff575fb52a2691135c1efde45678b1485f0,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui.ini,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_demo.cpp,34926a78f6f9d122c1e74dc36e036c7c983458a0f6b649252c2320719577f727,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_demo.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_draw.cpp,920d92a8068e722ce078a4db28911f791cbb1398b4cba643fe68ad8eb8d28c0a,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_draw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.cpp,9fdc66dfb4a90350b5e8c7d2e6a074c4731adef0d4fcdf39c423f0a5232c366b,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_glfw.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glfw.h,54d76a8c7279ba7ed4c1e2ed48e029f8069d3158e941841935dcbc7c2fd33845,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_glfw.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_glut.cpp,6688aa4fb76403915a32e5c69493b44ee497a7ec8b0cb6fb2a0b8036419d8156,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_glut.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.cpp,796e15ab70ff337553d7fffa7f4e6f87419d091296b81ffa8f7ce0c900de4d02,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_opengl3.cpp,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_impl_opengl3.h,2fd08f4de8ab755d2a4c3040036d26e34bc8c3a09ea9934d87d86602b842f2cb,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_impl_opengl3.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_internal.h,078210aec235cabe91e237c03c876183bbd2850879b1b03bda21e5566d7269e8,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_internal.h,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab02/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imgui_widgets.cpp,ea4692fb2dd80c6b49c6d42ef8d74da71c237b397488b7eba2adce1456c4d04f,CG/CG 2023/Labs/lab0/code/depends/imgui/imgui_widgets.cpp,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab02/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_rectpack.h,61eb7950e45d4831faac6629a727ac464ddcfcf199eb27a7b47de02b898ab6ef,CG/CG 2023/Labs/lab0/code/depends/imgui/imstb_rectpack.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab02/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_textedit.h,a583359690fe9acca4158192a520b9c148f1d503c94266f194860da9562e2d70,CG/CG 2023/Labs/lab0/code/depends/imgui/imstb_textedit.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab06 - Texture Mapping/code/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab02/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,imstb_truetype.h,80d0c57447b403617fdddccbffb8da509fa3f7d7db5b3aacd9b733061d5a3f67,CG/CG 2023/Labs/lab0/code/depends/imgui/imstb_truetype.h,EXACT_DUPLICATE
+CG,2023,integer.hpp,98abbde1905926b960ca16bca288bd1a5444f8acf126a04c7d08b04128648a7c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/integer.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,integer.hpp,7b72e4b3b849172b3b6ad88f33a2ddb9235d8b92bff4845abc45263f8facf034,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/integer.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,integer.hpp,561f8bde4b20d6f94c88913d96810a1b0042ddb2dade83f24d906ab1ffd71422,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/integer.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,integer.inl,7f179f693d713f1aba98c80902ddb855e7252b52e3ae84829fa93c7009d129b1,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/integer.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,integer.inl,37a148ec06f28e8e6af2ee98b215366c7fba0e55d45fd14a1fce5ebe30a29698,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/integer.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,348f852a26a56ab4cbf476df631d725c50afb74496851128911d1aaedd326507,CG/CG 2023/Labs/lab06 - Texture Mapping/code/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,f60d3457b364a759055e340fbe007cc25b0bff412d7b6f2ec681018b63ebea41,CG/CG 2023/Labs/lab02/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,aaa5b59bd71990475a7edab95376d9f1c6d471c85193bb88e87225d3d603f85a,CG/CG 2023/Labs/lab07 - Normal Mapping/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,318b27f4988becd3eecc5323dc8ea24d87ddf1651c5e240b6f76e0c567768278,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,958f6c012793947a18990455c45645f180fec691dafbcc9c6736146101145712,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,c9bcb572b05b958a49e0f33c660f6f554ef6625f67b8767b270d73f631813619,CG/CG 2023/Labs/lab08 - Environment Mapping/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,main.cpp,81eebdedc7864d83fef0053fc99ab9ea09f8d19b54f8a596f6a28a1e2ff0f08a,CG/CG 2023/Labs/lab0/code/src/main.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,matrix_transform.hpp,8a77c7a08b5521ed8580267db0d342832c0e357da8e54e0a6408d97287ce76fd,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/matrix_transform.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,matrix_transform.hpp,9913b3aca3817a34daf0f1c3cb7ef62737af0f6e29aef5d851c37eec2a6c14c7,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/matrix_transform.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,matrix_transform.inl,c39b77df42c51b443c400397992853d6ce221ad3d7a12a81aac8ca6f7fef1691,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/matrix_transform.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,matrix_transform.inl,a767002867b0bd37290566db2257345e674caa5ee2b655ce719f8027f4e37e10,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/matrix_transform.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,packing.hpp,1210b6194da61a9b13b287c191a2d89242ebfa3518feab1fe9a3a49069c0f083,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/packing.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,packing.hpp,c45b97710a9c4755f741b4cab1e91d0437a40bce332a3c9ea3b13f72809ebf4d,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/packing.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,quaternion.hpp,9e8c97ce43770801569459ab254d42b9700600223e3a58335a10a072f1445ed5,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/quaternion.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,quaternion.hpp,4512185d25adf15d72487ccb30de3734292245ccca949f77644f1a7d189a40a4,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/quaternion.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,quaternion.inl,29398fcff39effaf8e2e6a66e5b1640ddcb935055d55a4ae73fdfc26a0669e8a,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/quaternion.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,quaternion.inl,0c9421d6f4688907385366ce9763211bab5b78afe321b3c06079ffc6f58ff6b6,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/quaternion.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,scalar_relational.hpp,130430856d5090150c58504edc979e11b4e7f8a5ca2bfe4be117366952efa01a,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/scalar_relational.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,scalar_relational.hpp,9a739dee17f8bdc1770b395b84985d04b35427bffc588cd5a3e031ce2bbb743e,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/scalar_relational.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,scalar_relational.inl,32af3efa4f2bac8f2db8f239cfe4fbe31b5d593982574a1060fe1a40dc176895,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/scalar_relational.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,scalar_relational.inl,97a5cf9f71a43e7f36c846d86ee62fe2200e24dbea77e4ad0f0618d8e037ee54,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/scalar_relational.inl,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot.png,9c4c5856935bcbd65df4b205436d13627c1168919737bf2aef0a828c10b27ea1,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/screenshot.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot.png,c12dae89cea64c45bae1a8fcba6bddfa31fe6d2a94edfa733b7a896b4385bd20,CG/CG 2023/Labs/lab02/screenshot.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot_1.png,35182efcb5706c11ddd630957d14de12ea2c91f4f383a2ff13b35404b544c189,CG/CG 2023/Labs/lab08 - Environment Mapping/screenshot_1.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot_1.png,0a022a1eee87a5f91ad07d8ca13e4a61a9055febccd02cccf2d725838b4b5fc9,CG/CG 2023/Labs/lab03/screenshot_1.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot_2.png,ad1445f86381e04fa01d377beb50e6d5da7754b5ab0801767dda0c59cf194548,CG/CG 2023/Labs/lab08 - Environment Mapping/screenshot_2.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,screenshot_2.png,6bfaf48a605153e55ad772cfdae32de6df3045cba4cc7e330010ecb65bd1671d,CG/CG 2023/Labs/lab03/screenshot_2.png,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,settings.json,d5b604b86e44452d5bb545eef118da5473a143b7ad0d0b6bac157e305e61179c,CG/CG 2023/Labs/lab05 - Implementing Shaders/.vscode/settings.json,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,settings.json,de578eec9eded707260f781df21e2f2cb16e50ce6d5fd21881e5b16c9b518693,CG/CG 2023/Labs/lab0/.vscode/settings.json,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,settings.json,387651b83ef5bc19729fa32d16efeeb05b557d7b92c8d98b03782f4c6f1e7a37,CG/CG 2023/Assignments/Assignment04/.vscode/settings.json,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,stb_image.h,8e5b0d717dfc8a834c97ef202d20e78d083d009586e1731c985817d0155d568c,CG/CG 2023/Labs/lab06 - Texture Mapping/code/stb/stb_image.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,stb_image.h,8e5b0d717dfc8a834c97ef202d20e78d083d009586e1731c985817d0155d568c,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/stb/stb_image.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,stb_image.h,91f435e0fc6a620018b878b9859c74dff60d28046f87e649191ad6f35a98c722,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/stb/stb_image.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,stb_image_write.h,51998500e9519a85be1aa3291c6ad57deb454da98a1693ab5230f91784577479,CG/CG 2023/Labs/lab06 - Texture Mapping/code/stb/stb_image_write.h,EXACT_DUPLICATE
+CG,2023,stb_image_write.h,51998500e9519a85be1aa3291c6ad57deb454da98a1693ab5230f91784577479,CG/CG 2023/Labs/lab07 - Normal Mapping/code/depends/stb/stb_image_write.h,EXACT_DUPLICATE
+CG,2023,texture.jpg,7d7f5428c3234ec378ebc725b2b0acdb39cd7457fe761ddd311d861007ca8ae2,CG/CG 2023/Labs/lab06 - Texture Mapping/code/texture.jpg,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,texture.jpg,f2e1500eae22268ce2dc186445a39db8208e5df6c10009a6e34055c79126a717,CG/CG 2023/Labs/lab07 - Normal Mapping/code/texture/texture.jpg,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,type_aligned.hpp,f5b765623b8f2734c436fa4fdf6aa58afb86396810cec0cd9b3976517e4e2e3d,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtc/type_aligned.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,type_aligned.hpp,17189446aa8993f250aac17ea966e8c461c2411db4cb1ff7aa716cdf869e538c,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/gtx/type_aligned.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,f4f97efd35e7fca13a3bc73b6898d4ef30b59b4545557d11788d3c3d46c25057,CG/CG 2023/Labs/lab02/code/src/utils/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,3fa33ef8ee5c6ecf8cf59b67aa38ef20c8aad30c3cad4f4f0c0a732bc1de34df,CG/CG 2023/Labs/lab07 - Normal Mapping/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,c4c8a27359512838bcb273b3acae728b0e1f6ecdbbe20cc8c97c1c7319f31915,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,f6481487732516cc07ab4c4095610b569c3078156986922baf75dea6ba507229,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,069ccad85cbc8d13b922f0ac5be1146422703afb65bd40d8354234b10aeb4f36,CG/CG 2023/Labs/lab08 - Environment Mapping/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.cpp,50623d916066343cb3fd9b781f52c131cbc3d908ce94380be49ccee561e91fd1,CG/CG 2023/Labs/lab0/code/src/utils.cpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,1fac16dc54ba64a69f0c2685ca42bffa8c5e2cab70626e413d349b9161fea3ff,CG/CG 2023/Labs/lab07 - Normal Mapping/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,33db818984df6731f565accb7f3045564798ee92a08d3260494ee7b2b75834d9,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,f31d7057074567d95181b3066f5861b3e29ef2d5592ace90333e84609ca9dd1e,CG/CG 2023/Labs/lab05 - Implementing Shaders/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,d98ab36db6760efd5142d5439112571f1af7119491a0f6a4634e73abf862a097,CG/CG 2023/Labs/lab08 - Environment Mapping/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,utils.h,0ba1134dec21b5ac3e0d3685e4e2488ee5edc54369aec77be49d4a958ac7aa71,CG/CG 2023/Labs/lab0/code/src/utils.h,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vector_relational.hpp,d31e49c0b04d7904882183f538bb49ab4f8827583053a5cea482facea451e37e,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/vector_relational.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vector_relational.hpp,8a2a257e7d7b7d5544a28da2730f6f9fc7c87a3611695415931a15848016eeb2,CG/CG 2023/Labs/lab08 - Environment Mapping/code/depends/glm/glm/ext/vector_relational.hpp,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vshader.vs,a66ba0db84965cfcfdb251742adbede20894ad1a18cfffbbf8eded24cfb4b787,CG/CG 2023/Labs/lab02/code/shaders/vshader.vs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vshader.vs,70f7fb32e84d7bf6ee3d4bc32408e26ea72e05e348122928f55aa1014093d1d2,CG/CG 2023/Labs/lab07 - Normal Mapping/code/shaders/vshader.vs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vshader.vs,d2d3674641fb760c3cb948898250cbf5e2191540c94cfab3fd3b8a1de3588d08,CG/CG 2023/Labs/lab01 - Intro to OpenGL Shaders/code/shaders/vshader.vs,SAME_NAME_DIFFERENT_CONTENT
+CG,2023,vshader.vs,8d7a6fcf734c81dfe15f3adc93311afae639345c3911b7d5e8d41a4daf9f5a5f,CG/CG 2023/Labs/lab0/code/shaders/vshader.vs,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190_q1.cpp,c2e1e260999deb0eb257d1b71d73eaec3cf412195d71d9c61b514cce1c26f8bd,DSA/DSA 2024/DSA L/DSA L 006-b/2023190_q1.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190_q1.cpp,44276f3de9cbf9320b7c5580b7fa1e44c02f00839789fbadae8ba93c68c9873b,DSA/DSA 2024/DSA L/DSA L 005-b/2023190_q1.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190q1.cpp,23b8ad2f64f1fbc10a9d8cdacb0f59a4a5bc5aa73a17feaef317a973ca4d4660,DSA/DSA 2024/DSA L/DSA L 003-b/2023190q1.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190q1.cpp,d176e3652587d56d54349b6f271183333a659cc71211a322bee9c0ae5ed72551,DSA/DSA 2024/DSA L/DSA L 004-b/2023190q1.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190q2.cpp,af18579e53ad4a09310f01ac7869d701cd5cb3db4d5efd0d312f64e419a0d8fc,DSA/DSA 2024/DSA L/DSA L 003-b/2023190q2.cpp,SAME_NAME_DIFFERENT_CONTENT
+DSA,2024,2023190q2.cpp,f88b91cc0db0bc8050f017c3207b628efdfce6adc98a2b47a290e9689f94bac7,DSA/DSA 2024/DSA L/DSA L 004-b/2023190q2.cpp,SAME_NAME_DIFFERENT_CONTENT
+PNS,2025,Quiz1 2025 Rubric.pdf,4895e75f48bbc71133de8bc4a6412f56efa432c52678edcb01e77298f5e5e984,PNS/PNS (Sec B) 2025/Quiz1 2025 Rubric.pdf,SAME_NAME_DIFFERENT_CONTENT
+PNS,2025,Quiz1 2025 Rubric.pdf,743ca56d78187f07066332ae0b8d1701c8c886cddf39201c98a824cf4405d4f4,PNS/PNS-B 2025/Quizes/Quiz1 2025 Rubric.pdf,SAME_NAME_DIFFERENT_CONTENT
